@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="../static/style.css">
-    <title>ManuText</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../static/style.css">
+    <title>{{ title }}</title>
+
 </head>
 <body>
+    <div class="header"><h1>Manutext</h1>
+    </div>
+    <div class="topnav">
+      <a href="/">Home</a>
+    </div>
+{% block main %}
+{% endblock %}
+</body>
+</html>
 
-<div class="header"><h1>Manutext</h1>
-</div>
 
-<div class="topnav">
-  <a href="/">Home</a>
-</div>
 

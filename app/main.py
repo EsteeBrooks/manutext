@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, redirect
 import os
+from flask.helpers import stream_with_context
 from werkzeug.utils import secure_filename
 try:
     from PIL import Image
@@ -43,6 +44,7 @@ def allowed_image_filesize(filesize):
         return False
 
 
+@app.route("/", methods=["GET", "POST"])
 @app.route("/upload-image", methods=["GET", "POST"])
 def upload_image():
     if request.method == "POST":
@@ -68,11 +70,13 @@ def upload_image():
                     extracted_text = ocr_core(os.path.join(
                         app.config["IMAGE_UPLOADS"], filename))
 
+                    src = os.path.join(app.config["IMAGE_UPLOADS"], filename)
+                    #src = "file:/" + src
+                    print(src)
                     return render_template('upload_image.html',
                                            msg='Successfully processed',
                                            extracted_text=extracted_text,
-                                           img_src=os.path.join(
-                                               app.config["IMAGE_UPLOADS"], filename))
+                                           img_src=src)
 
                 else:
                     return render_template('upload_image.html', msg="That file extension is not allowed")
