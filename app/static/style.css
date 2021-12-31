@@ -2,11 +2,12 @@ html,
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
   padding: 0;
   color: #26272d;
   font-size: 14px;
   line-height: 1.42857143;
+  text-align: center;
 }
 .header {
   padding: 30px;
@@ -53,12 +54,11 @@ body {
   border-radius: 16px;
   background-color: #b0e0e6;
 }
-button,
-.custom-file-input {
-  background-color: #117864; /* Green */
+button, #image {
+  background-color: #397eb6; /* Green */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
