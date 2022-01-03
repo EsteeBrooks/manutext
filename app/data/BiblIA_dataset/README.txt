@@ -1,0 +1,9 @@
+Version 1.0, 6.8.2021, Daniel Stökl Ben Ezra (daniel.stoekl@ephe.psl.eu)
+
+This dataset for Handwritten Text Recognition includes layout segmentation (regions, toplines and linepolygons) and unicode-transcriptions in alto 4.2 XML for 202 images of Medieval Hebrew manuscripts from the Bibliothèque nationale de France (BnF, National Library of France) and the Biblioteca Apostolica Vaticana (BAV, Vatican Library) corresponding to the article "BiblIA - a General Model for Medieval Hebrew Manuscripts and an Open Annotated Dataset" by Daniel Stökl Ben Ezra, Bronson Brown-DeVost, Pawel Jablonski, Benjamin Kiessling, Elena Lolli, and Hayim Lapin, published in HIP@ICDAR 2021 held in Lausanne, September 2021. 
+The catalogue.txt file contains the information about the images, the shelfmarks of the manuscripts, their script-style (Ashkenazy, Italian, Sephardi), genre (Biblical, Rabbinic), date (where known), image-type (color or grayscale), iiif-manifest and links to download the images where it was impossible to include them directly here for copyright issues. The 132 corresponding images from the BnF are included here. For the 70 images from the BAV, the iiif-links are given in the catalogue.txt. 
+The schema for the alto files is http://www.loc.gov/standards/alto/v4/alto-4-2.xsd. 
+To create these files, we used the open source kraken OCR/HTR engine kraken (now at version 3.05) and the eScriptorium virtual research environment (https://escripta.hypotheses.org) created by the digital and computational task force of the research laboratory Archéologie & Philologie d'Orient et d'Occident (UMR 8546, CNRS - PSL (EPHE, ENS)).
+This work was funded by the projects Scripta-PSL, Biblissima+ (Équipex ANR-11-EQPX-0007), Resilience (Horizon 2020 Grant Agreement 871127), and in particular Sofer Mahir. 
+
+Licence CC-BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/

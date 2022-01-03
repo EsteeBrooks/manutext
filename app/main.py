@@ -1,4 +1,4 @@
-from flask import Flask, request, redirect, render_template
+from flask import Flask, request, redirect, render_template, url_for
 from flask.helpers import stream_with_context
 from werkzeug.utils import secure_filename
 try:
@@ -9,64 +9,39 @@ import pytesseract
 import os
 import cv2
 import numpy as np
+from sklearn.metrics import accuracy_score
 
+''' Set configurations:'''
 app = Flask(__name__)
-app.config["IMAGE_UPLOADS"] = "/Users/esteebrooks/Documents/Machine_Learning/final_project/manutext2/manutext/app/static/img"
-app.config["ALLOWED_IMAGE_EXTENSIONS"] = ["JPEG", "JPG", "PNG", "GIF"]
+app.config["IMAGE_UPLOADS"] = "app/static/img/uploads"
+app.config["ALLOWED_IMAGE_EXTENSIONS"] = ["JPEG", "JPG", "PNG"]
 app.config["MAX_IMAGE_FILESIZE"] = 0.5 * 1024 * 1024
 
+''' Function for getting the accuracy score and correct text for a file:'''
+def get_accuracy_score(extracted_text, filename):
+    # Collect all the correct text:
+    with open("./app/data/text_data/" + filename[:-4] + ".txt", "r") as f:
+        correct_text = f.read()
 
-def ocr_core(filename):
-    """
-    This function will handle the core OCR processing of images.
-    """
-    image = cv2.imread(filename, cv2.IMREAD_UNCHANGED)
-    # img = Image.open(filename)
-    # Rescale the image:
-    # img = cv2.resize(img, None, fx=1.2, fy=1.2, interpolation=cv2.INTER_CUBIC)
-    # # Convert image to grayscale:
-    # img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    correct_text_list = correct_text.split( )
+    extracted_text_list = extracted_text.split()
 
-    # # Applying dilation and erosion to remove the noise
-    # kernel = np.ones((1, 1), np.uint8)
-    # img = cv2.dilate(img, kernel, iterations=1)
-    # img = cv2.erode(img, kernel, iterations=1)
-
-    # # Apply blur:
-    # cv2.threshold(cv2.medianBlur(img, 3), 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
-
-    image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    image = cv2.medianBlur(image,5)
-    # cv2.threshold(image, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
-
-    kernel = np.ones((5,5),np.uint8)
-    image = cv2.dilate(image, kernel, iterations = 1)
+    while len(correct_text_list) < len(extracted_text_list):
+        correct_text_list += [""]
     
-    kernel = np.ones((5,5),np.uint8)
-    image = cv2.morphologyEx(image, cv2.MORPH_OPEN, kernel)
+    while len(correct_text_list) > len(extracted_text_list):
+        extracted_text_list += [""]
+    
+    score = accuracy_score(correct_text_list, extracted_text_list)
+    return score, correct_text
 
-    image = cv2.Canny(image, 100, 200)
-
-    # Get a searchable PDF
-    pdf = pytesseract.image_to_pdf_or_hocr(image, extension='pdf', lang='heb', config='--oem 1')
-    dir_path = os.path.dirname(os.path.realpath(__file__))
-    with open(dir_path+"/test.pdf", 'w+b') as f:
-        f.write(pdf) # pdf type is bytes by default
-
-    # coords = np.column_stack(np.where(image > 0))
-    # angle = cv2.minAreaRect(coords)[-1]
-    # if angle < -45:
-    #     angle = -(90 + angle)
-    # else:
-    #     angle = -angle
-    # (h, w) = image.shape[:2]
-    # center = (w // 2, h // 2)
-    # M = cv2.getRotationMatrix2D(center, angle, 1.0)
-    # img = cv2.warpAffine(image, M, (w, h), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
-    text = pytesseract.image_to_string(image, lang='heb', config='--oem 1')
+''' Function for getting the predicted text using Tesseract '''
+def ocr_core(filename):    
+    img = Image.open(filename)
+    text = pytesseract.image_to_string(img, lang='heb', config='--oem 1')
     return text
 
-
+''' Function for checking the image is allowed '''
 def allowed_image(filename):
 
     if not "." in filename:
@@ -79,7 +54,7 @@ def allowed_image(filename):
     else:
         return False
 
-
+'''Function for checking the image is an allowed size'''
 def allowed_image_filesize(filesize):
 
     if int(filesize) <= app.config["MAX_IMAGE_FILESIZE"]:
@@ -87,43 +62,51 @@ def allowed_image_filesize(filesize):
     else:
         return False
 
-
+''' Route for the about page '''
 @app.route("/about")
 def about():
     return render_template("about.html")
 
 
+''' Route for home page (which is the upload image page):'''
 @app.route("/", methods=["GET", "POST"])
 @app.route("/upload-image", methods=["GET", "POST"])
 def upload_image():
-    print(request.method)
     if request.method == "POST":
+        # If the image is not allowed, set as message:
         if not allowed_image_filesize(request.content_length):
             render_template('upload_image.html',
-                                msg='Filesize exceeded maximum limit')
-        image = request.files["image"]
-        if image.filename == "":
-                render_template('upload_image.html', msg='No filename')
+                            msg='Filesize exceeded maximum limit')
 
-        if allowed_image(image.filename):
-            dir_path = os.path.dirname(os.path.realpath(__file__))
+        image = request.files["image"]
+
+        # If the image doesn't have a name, set as message:
+        if image.filename == "":
+            render_template('upload_image.html', msg='No filename')
+
+        if allowed_image(image.filename):            
             # Save the image to static/img/uploads:
             filename = secure_filename(image.filename)
-            image.save(dir_path + "/img/uploads/" + filename)
+            image.save(os.path.join(
+                app.config["IMAGE_UPLOADS"], filename))
 
             # call the OCR function on image:
             extracted_text = ocr_core(os.path.join(
-            app.config["IMAGE_UPLOADS"], filename))
-            src = filename
-            print(src)
-            # src = os.path.join(app.config["IMAGE_UPLOADS"], filename)
-            # src = os.listdir(app.config["IMAGE_UPLOADS"])
+                app.config["IMAGE_UPLOADS"], filename))
+
+            # Get the accuracy score:
+            score, correct_text= get_accuracy_score(extracted_text, filename)
+            score = str(score)
+            # Render template:
+            src = url_for('static', filename=f"img/uploads/{filename}")
             return render_template('upload_image.html',
-                                       msg='Successfully processed',
-                                       extracted_text=extracted_text,
-                                       img_src=src)
-
+                                   msg='Successfully processed',
+                                   extracted_text=extracted_text,
+                                   correct_text=correct_text,
+                                   img_src=src,
+                                   score=score)
         else:
+            # The file extension is not allowed so set that as the message:
             return render_template('upload_image.html', msg="That file extension is not allowed")
-
+    # This is a GET method so just load the page with instructions as the message:
     return render_template("upload_image.html", msg='The extracted text will be displayed here')

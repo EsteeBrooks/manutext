@@ -1,0 +1,203 @@
+filename	script_type	library	Shelfmark	Date	Biblical_or_Rabbinic	color_or_grayscale	iiif_manifest	link2img	test/train	
+Urb.ebr.5_0011_fa_0009r-8v.xml	Italian	BAV	Urb.ebr.5	13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.5/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.5/Urb.ebr.5_0011_fa_0009r-8v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.6_0011_fa_0009r-8v.xml	Italian	BAV	Urb.ebr.6	1292/93	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.6/Urb.ebr.6_0011_fa_0009r-8v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.9_0011_fa_0003r.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0011_fa_0003r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.481_0011_fa_0002r.xml	Italian	BAV	Vat.ebr.481	early 15th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.481/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.481/Vat.ebr.481_0011_fa_0002r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.6_0011_fa_0003r.xml	Italian	BAV	Vat.ebr.6	ca. 1400	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.6/Vat.ebr.6_0011_fa_0003r.jp2/full/full/0/default.jpg	train	
+Urb.ebr.5_0012_fa_0010r-9v.xml	Italian	BAV	Urb.ebr.5	13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.5/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.5/Urb.ebr.5_0012_fa_0010r-9v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.2_0012_fa_0002v.xml	Italian	BAV	Urb.ebr.2	ca. 1100	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.2/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.2/Urb.ebr.2_0012_fa_0002v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.481_0012_fa_0002v.xml	Italian	BAV	Vat.ebr.481	early 15th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.481/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.481/Vat.ebr.481_0012_fa_0002v.jp2/full/full/0/default.jpg	test	
+Urb.ebr.5_0013_fa_0011r-10v.xml	Italian	BAV	Urb.ebr.5	13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.5/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.5/Urb.ebr.5_0013_fa_0011r-10v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.481_0013_fa_0003r.xml	Italian	BAV	Vat.ebr.481	early 15th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.481/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.481/Vat.ebr.481_0013_fa_0003r.jp2/full/full/0/default.jpg	train	
+Urb.ebr.2_0013_fa_0003r.xml	Italian	BAV	Urb.ebr.2	ca. 1100	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.2/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.2/Urb.ebr.2_0013_fa_0003r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.481_0014_fa_0003v.xml	Italian	BAV	Vat.ebr.481	early 15th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.481/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.481/Vat.ebr.481_0014_fa_0003v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.2_0014_fa_0003v.xml	Italian	BAV	Urb.ebr.2	ca. 1100	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.2/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.2/Urb.ebr.2_0014_fa_0003v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.2_0015_fa_0004r.xml	Italian	BAV	Urb.ebr.2	ca. 1100	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.2/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.2/Urb.ebr.2_0015_fa_0004r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.25_0016_fa_0004v.xml	Italian	BAV	Vat.ebr.25	late 14th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.25/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.25/Vat.ebr.25_0016_fa_0004v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.9_0016_fa_0005v.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0016_fa_0005v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.25_0017_fa_0005r.xml	Italian	BAV	Vat.ebr.25	late 14th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.25/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.25/Vat.ebr.25_0017_fa_0005r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.25_0018_fa_0005v.xml	Italian	BAV	Vat.ebr.25	late 14th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.25/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.25/Vat.ebr.25_0018_fa_0005v.jp2/full/full/0/default.jpg	test	
+Vat.ebr.25_0019_fa_0006r.xml	Italian	BAV	Vat.ebr.25	late 14th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.25/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.25/Vat.ebr.25_0019_fa_0006r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.9_0021_fa_0008r.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0021_fa_0008r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.436_0021_fa_0009r.xml	Italian	BAV	Vat.ebr.436	late 13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.436/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.436/Vat.ebr.436_0021_fa_0009r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.436_0022_fa_0009v.xml	Italian	BAV	Vat.ebr.436	late 13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.436/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.436/Vat.ebr.436_0022_fa_0009v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.436_0023_fa_0010r.xml	Italian	BAV	Vat.ebr.436	late 13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.436/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.436/Vat.ebr.436_0023_fa_0010r.jp2/full/full/0/default.jpg	train	
+Ross.556_0024_fa_0016r-15r.xml	Italian	BAV	Ross.556	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.556/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.556/Ross.556_0024_fa_0016r-15r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.436_0024_fa_0010v.xml	Italian	BAV	Ross.556	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.556/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.436/Vat.ebr.436_0024_fa_0010v.jp2/full/full/0/default.jpg	train	
+Ross.553_0026_fa_0018r.xml	Italian	BAV	Ross.553	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.553/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.553/Ross.553_0026_fa_0018r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.9_0026_fa_0010v.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0026_fa_0010v.jp2/full/full/0/default.jpg	test	
+Ross.556_0036_fa_0028r-27r.xml	Italian	BAV	Ross.556	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.556/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.556/Ross.556_0036_fa_0028r-27r.jp2/full/full/0/default.jpg	test	
+Vat.ebr.9_0038_fa_0016v.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0038_fa_0016v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.6_0005_fa_0003r-2v.xml	Italian	BAV	Urb.ebr.6	1292/93	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.6/Urb.ebr.6_0005_fa_0003r-2v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.9_0042_fa_0018v.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0042_fa_0018v.jp2/full/full/0/default.jpg	train	
+Ross.556_0044_fa_0036r-35r.xml	Italian	BAV	Ross.556	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.556/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.556/Ross.556_0044_fa_0036r-35r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.9_0046_fa_0020v.xml	Italian	BAV	Vat.ebr.9	1287	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.9/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.9/Vat.ebr.9_0046_fa_0020v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.6_0006_fa_0004r-3v.xml	Italian	BAV	Urb.ebr.6	1292/93	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.6/Urb.ebr.6_0006_fa_0004r-3v.jp2/full/full/0/default.jpg	train	
+Ross.556_0051_fa_0043r-42r.xml	Italian	BAV	Ross.556	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.556/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.556/Ross.556_0051_fa_0043r-42r.jp2/full/full/0/default.jpg	train	
+Urb.ebr.6_0007_fa_0005r-4v.xml	Italian	BAV	Urb.ebr.6	1292/93	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.6/Urb.ebr.6_0007_fa_0005r-4v.jp2/full/full/0/default.jpg	train	
+Ross.553_0069_fa_0061r-60v.xml	Italian	BAV	Ross.553	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.553/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.553/Ross.553_0069_fa_0061r-60v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.6_0008_fa_0006r-5v.xml	Italian	BAV	Urb.ebr.6	1292/93	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.6/Urb.ebr.6_0008_fa_0006r-5v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.6_0008_fa_0001v.xml	Italian	BAV	Vat.ebr.6	ca. 1400	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.6/Vat.ebr.6_0008_fa_0001v.jp2/full/full/0/default.jpg	test	
+Ross.553_0077_fa_0069r-68v.xml	Italian	BAV	Ross.553	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.553/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.553/Ross.553_0077_fa_0069r-68v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.6_0009_fa_0002r.xml	Italian	BAV	Vat.ebr.6	ca. 1400	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.6/Vat.ebr.6_0009_fa_0002r.jp2/full/full/0/default.jpg	train	
+Ross.556_0009_fa_0001r-7v.xml	Italian	BAV	Ross.556	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.556/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.556/Ross.556_0009_fa_0001r-7v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.6_0010_fa_0002v.xml	Italian	BAV	Vat.ebr.6	ca. 1400	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.6/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.6/Vat.ebr.6_0010_fa_0002v.jp2/full/full/0/default.jpg	train	
+Urb.ebr.5_0010_fa_0008r-7v.xml	Italian	BAV	Urb.ebr.5	13th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Urb.ebr.5/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Urb.ebr.5/Urb.ebr.5_0010_fa_0008r-7v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.481_0010_fa_0001v.xml	Italian	BAV	Vat.ebr.481	early 15th century	Biblical	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.481/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.481/Vat.ebr.481_0010_fa_0001v.jp2/full/full/0/default.jpg	test	
+Ross.553_0095_fa_0087r-86v.xml	Italian	BAV	Ross.553	1294	Biblical	color	https://digi.vatlib.it/iiif/MSS_Ross.553/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Ross.553/Ross.553_0095_fa_0087r-86v.jp2/full/full/0/default.jpg	train	
+btv1b105393258.xml	Sephardi	BnF	BnF héb. 11		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105393258/manifest.json		train	
+btv1b10539326q.xml	Sephardi	BnF	BnF héb. 12		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539326q/manifest.json		train	
+btv1b105393275.xml	Sephardi	BnF	BnF héb. 13		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105393275/manifest.json		train	
+btv1b10539328m.xml	Sephardi	BnF	BnF héb. 22		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539328m/manifest.json		train	
+btv1b105393292.xml	Sephardi	BnF	BnF héb. 24		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105393292/manifest.json		test	
+btv1b10539330f.xml	Sephardi	BnF	BnF héb. 25	1232	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539330f/manifest.json		train	
+btv1b10539331w.xml	Sephardi	BnF	BnF héb. 26	1272	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539331w/manifest.json		train	
+btv1b10539333s.xml	Sephardi	BnF	BnF héb. 30	1357	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539333s/manifest.json		train	
+btv1b10539358v.xml	Ashkenazi	BnF	BnF héb. 1349		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539358v/manifest.json		train	
+btv1b10539461h.xml	Sephardi	BnF	BnF héb. 32		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539461h/manifest.json		train	
+btv1b10539463d.xml	Ashkenazi	BnF	BnF héb. 34		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539463d/manifest.json		train	
+btv1b10539464v.xml	Ashkenazi	BnF	BnF héb. 40	1335	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539464v/manifest.json		train	
+btv1b105394659.xml	Sephardi	BnF	BnF héb. 43		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105394659/manifest.json		train	
+btv1b10539466r.xml	Sephardi	BnF	BnF héb. 46		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539466r/manifest.json		train	
+btv1b105394676.xml	Sephardi	BnF	BnF héb. 47		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105394676/manifest.json		test	
+btv1b10539468n.xml	Sephardi	BnF	BnF héb. 50	1496	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539468n/manifest.json		train	
+btv1b105394693.xml	Sephardi	BnF	BnF héb. 51		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105394693/manifest.json		train	
+btv1b10539470g.xml	Ashkenazi	BnF	BnF héb. 53		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539470g/manifest.json		train	
+btv1b10539471x.xml	Italian	BnF	BnF héb. 54	1369	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539471x/manifest.json		train	
+btv1b10539499b.xml	Ashkenazi	BnF	BnF héb. 102	1581	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539499b/manifest.json		train	
+btv1b10539500z.xml	Sephardi	BnF	BnF héb. 103		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539500z/manifest.json		train	
+btv1b10539501d.xml	Ashkenazi	BnF	BnF héb. 104		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539501d/manifest.json		train	
+btv1b10539502v.xml	Sephardi	BnF	BnF héb. 105	1198	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539502v/manifest.json		train	
+btv1b10539538s.xml	Ashkenazi	BnF	BnF héb. 55		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539538s/manifest.json		train	
+btv1b105395397.xml	Sephardi	BnF	BnF héb. 61		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395397/manifest.json		train	
+btv1b10539540m.xml	Italian	BnF	BnF héb. 62		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539540m/manifest.json		train	
+btv1b105395412.xml	Italian	BnF	BnF héb. 63	1326	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395412/manifest.json		train	
+btv1b10539543z.xml	Ashkenazi	BnF	BnF héb. 65		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539543z/manifest.json		train	
+btv1b105395469.xml	Sephardi	BnF	BnF héb. 66	1287	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395469/manifest.json		train	
+btv1b10539547r.xml	Italian	BnF	BnF héb. 67		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539547r/manifest.json		train	
+btv1b10539551g.xml	Sephardi	BnF	BnF héb. 72		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539551g/manifest.json		test	
+btv1b105395808.xml	Italian	BnF	BnF héb. 80		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395808/manifest.json		train	
+btv1b105395825.xml	Sephardi	BnF	BnF héb. 82	1207	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395825/manifest.json		train	
+btv1b10539583m.xml	Ashkenazi	BnF	BnF héb. 83		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539583m/manifest.json		train	
+btv1b105395842.xml	Italian	BnF	BnF héb. 84		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395842/manifest.json		train	
+btv1b10539585h.xml	Ashkenazi	BnF	BnF héb. 86		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539585h/manifest.json		train	
+btv1b10539586z.xml	Sephardi	BnF	BnF héb. 88		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539586z/manifest.json		train	
+btv1b10539587d.xml	Sephardi	BnF	BnF héb. 87		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539587d/manifest.json		train	
+btv1b10539588v.xml	Sephardi	BnF	BnF héb. 93		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539588v/manifest.json		train	
+btv1b105395899.xml	Sephardi	BnF	BnF héb. 94		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395899/manifest.json		train	
+btv1b10539590p.xml	Sephardi	BnF	BnF héb. 95		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539590p/manifest.json		train	
+btv1b10539592k.xml	Sephardi	BnF	BnF héb. 106		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539592k/manifest.json		train	
+btv1b105395931.xml	Italian	BnF	BnF héb. 107		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105395931/manifest.json		test	
+btv1b10539594g.xml	Italian	BnF	BnF héb. 108		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539594g/manifest.json		train	
+btv1b10539596c.xml	Sephardi	BnF	BnF héb. 109		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539596c/manifest.json		train	
+btv1b10539607g.xml	Ashkenazi	BnF	BnF héb. 85		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539607g/manifest.json		train	
+btv1b10539970c.xml	Sephardi	BnF	BnF héb. 23		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539970c/manifest.json		train	
+btv1b10539971t.xml	Sephardi	BnF	BnF héb. 89		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539971t/manifest.json		train	
+btv1b10539995f.xml	Sephardi	BnF	BnF héb. 14		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539995f/manifest.json		train	
+btv1b10539996w.xml	Ashkenazi	BnF	BnF héb. 35	1283	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539996w/manifest.json		train	
+btv1b10539997b.xml	Sephardi	BnF	BnF héb. 44	1389	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539997b/manifest.json		train	
+btv1b10539998s.xml	Ashkenazi	BnF	BnF héb. 45		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10539998s/manifest.json		train	
+btv1b105399997.xml	Sephardi	BnF	BnF héb. 73		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105399997/manifest.json		train	
+btv1b10540652h.xml	Sephardi	BnF	BnF héb. 29		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10540652h/manifest.json		train	
+btv1b105408439.xml	Sephardi	BnF	BnF héb. 15		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105408439/manifest.json		train	
+btv1b10544753q.xml	Sephardi	BnF	BnF héb. 20	1301	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10544753q/manifest.json		train	
+btv1b105467932.xml	Ashkenazi	BnF	BnF héb. 1	1286	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105467932/manifest.json		train	
+btv1b10546794h.xml	Ashkenazi	BnF	BnF héb. 2	1286	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10546794h/manifest.json		train	
+btv1b105483541.xml	Ashkenazi	BnF	BnF héb. 3	1286	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105483541/manifest.json		train	
+btv1b10548355g.xml	Ashkenazi	BnF	BnF héb. 4	1286	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10548355g/manifest.json		train	
+btv1b10548378n.xml	Ashkenazi	BnF	BnF héb. 37		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10548378n/manifest.json		train	
+btv1b10548410z.xml	Ashkenazi	BnF	BnF héb. 5	1298	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10548410z/manifest.json		train	
+btv1b10548411d.xml	Ashkenazi	BnF	BnF héb. 6	1298	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10548411d/manifest.json		test	
+btv1b10548412v.xml	Italian	BnF	BnF héb. 42	1473	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10548412v/manifest.json		train	
+btv1b105484406.xml	Ashkenazi	BnF	BnF héb. 8	1304	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105484406/manifest.json		train	
+btv1b10548441n.xml	Ashkenazi	BnF	BnF héb. 9	1304	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10548441n/manifest.json		test	
+btv1b10549397c.xml	Ashkenazi	BnF	BnF héb. 39		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10549397c/manifest.json		test	
+btv1b105494054.xml	Ashkenazi	BnF	BnF héb. 36	1300	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105494054/manifest.json		train	
+btv1b10549487b.xml	Sephardi	BnF	BnF héb. 7	1299	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10549487b/manifest.json		train	
+btv1b10549488s.xml	Ashkenazi	BnF	BnF héb. 17		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10549488s/manifest.json		train	
+btv1b10550868p.xml	Ashkenazi	BnF	BnF héb. 52		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10550868p/manifest.json		train	
+btv1b105508927.xml	Ashkenazi	BnF	BnF héb. 38	1303	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b105508927/manifest.json		train	
+btv1b10551141d.xml	Ashkenazi	BnF	BnF héb. 16		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b10551141d/manifest.json		train	
+btv1b107200364.xml	Sephardi	BnF	BnF héb. 22		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b107200364/manifest.json		train	
+btv1b107200381.xml	Sephardi	BnF	BnF héb. 22		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b107200381/manifest.json		train	
+btv1b107202162.xml	Sephardi	BnF	BnF héb. 32		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b107202162/manifest.json		train	
+btv1b107203474.xml	Ashkenazi	BnF	BnF héb. 1	1286	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b107203474/manifest.json		train	
+btv1b10720650j.xml	Ashkenazi	BnF	BnF héb. 2	1286	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b10720650j/manifest.json		train	
+btv1b10720922b.xml	Ashkenazi	BnF	BnF héb. 2	1286	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b10720922b/manifest.json		train	
+btv1b10722054r.xml	Ashkenazi	BnF	BnF héb. 17		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b10722054r/manifest.json		train	
+btv1b107231531.xml	Ashkenazi	BnF	BnF héb. 38	1303	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b107231531/manifest.json		train	
+btv1b60004143.xml	Ashkenazi	BnF	BnF héb. 113		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b60004143/manifest.json		train	
+btv1b8455939z.xml	Ashkenazi	BnF	BnF héb. 49	1482	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b8455939z/manifest.json		train	
+btv1b8455942f.xml	Ashkenazi	BnF	BnF héb. 48	1482	Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b8455942f/manifest.json		train	
+btv1b8538800c.xml	Sephardi	BnF	BnF héb. 21		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b8538800c/manifest.json		train	
+btv1b90027574.xml	Sephardi	BnF	BnF héb. 25	1232	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90027574/manifest.json		test	
+btv1b9002758j.xml	Sephardi	BnF	BnF héb. 47		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002758j/manifest.json		train	
+btv1b9002759z.xml	Ashkenazi	BnF	BnF héb. 6	1298	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002759z/manifest.json		train	
+btv1b9002760m.xml	Ashkenazi	BnF	BnF héb. 19		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002760m/manifest.json		train	
+btv1b9002762f.xml	Sephardi	BnF	BnF héb. 29		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002762f/manifest.json		train	
+btv1b90027648.xml	Sephardi	BnF	BnF héb. 23		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90027648/manifest.json		train	
+btv1b90027663.xml	Sephardi	BnF	BnF héb. 73		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90027663/manifest.json		train	
+btv1b9002769b.xml	Sephardi	BnF	BnF héb. 66	1287	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002769b/manifest.json		train	
+btv1b90027737.xml	Sephardi	BnF	BnF héb. 27	1295	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90027737/manifest.json		train	
+btv1b90027752.xml	Sephardi	BnF	BnF héb. 26	1272	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90027752/manifest.json		train	
+btv1b90027789.xml	Ashkenazi	BnF	BnF héb. 55		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90027789/manifest.json		train	
+btv1b9002780c.xml	Ashkenazi	BnF	BnF héb. 45		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002780c/manifest.json		train	
+btv1b90028384.xml	Ashkenazi	BnF	BnF héb. 16		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90028384/manifest.json		train	
+btv1b9002839j.xml	Sephardi	BnF	BnF héb. 50	1496	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002839j/manifest.json		train	
+btv1b90028406.xml	Ashkenazi	BnF	BnF héb. 37		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90028406/manifest.json		test	
+btv1b9002853t.xml	Ashkenazi	BnF	BnF héb. 52		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002853t/manifest.json		train	
+btv1b90028903.xml	Ashkenazi	BnF	BnF héb. 8	1304	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90028903/manifest.json		train	
+btv1b9002891h.xml	Sephardi	BnF	BnF héb. 46		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002891h/manifest.json		train	
+btv1b9002892x.xml	Sephardi	BnF	BnF héb. 13		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002892x/manifest.json		train	
+btv1b9002986j.xml	Sephardi	BnF	BnF héb. 14		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002986j/manifest.json		train	
+btv1b9002989s.xml	Sephardi	BnF	BnF héb. 11		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002989s/manifest.json		train	
+btv1b9002993p.xml	Ashkenazi	BnF	BnF héb. 36	1300	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002993p/manifest.json		train	
+btv1b90029943.xml	Ashkenazi	BnF	BnF héb. 35	1283	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90029943/manifest.json		train	
+btv1b9002995h.xml	Sephardi	BnF	BnF héb. 30	1357	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002995h/manifest.json		test	
+btv1b9002996x.xml	Sephardi	BnF	BnF héb. 15		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002996x/manifest.json		train	
+btv1b9002997b.xml	Sephardi	BnF	BnF héb. 7	1299	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9002997b/manifest.json		train	
+btv1b9003018x.xml	Sephardi	BnF	BnF héb. 28	1344	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9003018x/manifest.json		train	
+btv1b9003019b.xml	Ashkenazi	BnF	BnF héb. 41		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9003019b/manifest.json		train	
+btv1b90030200.xml	Ashkenazi	BnF	BnF héb. 40	1335	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90030200/manifest.json		train	
+btv1b9003021d.xml	Sephardi	BnF	BnF héb. 12		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9003021d/manifest.json		train	
+btv1b90030556.xml	Ashkenazi	BnF	BnF héb. 39		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90030556/manifest.json		train	
+btv1b9003056m.xml	Italian	BnF	BnF héb. 62		Biblical	color	https://gallica.bnf.fr/ark:/12148/btv1b9003056m/manifest.json		train	
+btv1b90030571.xml	Ashkenazi	BnF	BnF héb. 34		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90030571/manifest.json		train	
+btv1b9003058f.xml	Ashkenazi	BnF	BnF héb. 49	1482	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9003058f/manifest.json		train	
+btv1b9003059v.xml	Ashkenazi	BnF	BnF héb. 48	1482	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9003059v/manifest.json		train	
+btv1b9003061x.xml	Ashkenazi	BnF	BnF héb. 9	1304	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9003061x/manifest.json		train	
+btv1b9064414m.xml	Sephardi	BnF	BnF héb. 94		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9064414m/manifest.json		train	
+btv1b90644381.xml	Sephardi	BnF	BnF héb. 66	1287	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90644381/manifest.json		train	
+btv1b90644455.xml	Sephardi	BnF	BnF héb. 87		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90644455/manifest.json		train	
+btv1b9064453q.xml	Italian	BnF	BnF héb. 107		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9064453q/manifest.json		train	
+btv1b90645673.xml	Ashkenazi	BnF	BnF héb. 86		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90645673/manifest.json		train	
+btv1b90645799.xml	Ashkenazi	BnF	BnF héb. 85		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90645799/manifest.json		test	
+btv1b9064580z.xml	Italian	BnF	BnF héb. 84		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9064580z/manifest.json		train	
+btv1b9064581c.xml	Italian	BnF	BnF héb. 80		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9064581c/manifest.json		train	
+btv1b90645851.xml	Ashkenazi	BnF	BnF héb. 83		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b90645851/manifest.json		train	
+btv1b9064586f.xml	Sephardi	BnF	BnF héb. 82	1207	Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9064586f/manifest.json		train	
+btv1b9064589p.xml	Sephardi	BnF	BnF héb. 73		Biblical	grayscale	https://gallica.bnf.fr/ark:/12148/btv1b9064589p/manifest.json		test	
+Vat.ebr.299_0063_fa_0026r.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0063_fa_0026r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0064_fa_0026v.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0064_fa_0026v.jp2/full/full/0/default.jpg	test	
+Vat.ebr.299_0066_fa_0027v.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0066_fa_0027v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0067_fa_0028r.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0067_fa_0028r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0068_fa_0028v.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0068_fa_0028v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0070_fa_0029v.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0070_fa_0029v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0074_fa_0031v.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0074_fa_0031v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0075_fa_0032r.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0075_fa_0032r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.299_0087_fa_0038r.xml	Italian	BAV	Vat.ebr.299	late 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.299/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.299/Vat.ebr.299_0087_fa_0038r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.31_0047_fa_0021r.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0047_fa_0021r.jp2/full/full/0/default.jpg	train	132
+Vat.ebr.31_0059_fa_0027r.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0059_fa_0027r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.31_0060_fa_0027v.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0060_fa_0027v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.31_0063_fa_0029r.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0063_fa_0029r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.31_0066_fa_0030v.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0066_fa_0030v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.31_0068_fa_0031v.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0068_fa_0031v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.31_0069_fa_0032r.xml	Italian	BAV	Vat.ebr.31	1072/73	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.31/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.31/Vat.ebr.31_0069_fa_0032r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0100_fa_0047v.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0100_fa_0047v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0101_fa_0048r.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0101_fa_0048r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0105_fa_0050r.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0105_fa_0050r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0110_fa_0052v.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0110_fa_0052v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0111_fa_0053r.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0111_fa_0053r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0112_fa_0053v.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0112_fa_0053v.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0113_fa_0054r.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0113_fa_0054r.jp2/full/full/0/default.jpg	train	
+Vat.ebr.32_0115_fa_0055r.xml	Italian	BAV	Vat.ebr.32	early-mid 11th century	Rabbinic	color	https://digi.vatlib.it/iiif/MSS_Vat.ebr.32/manifest.json	https://digi.vatlib.it/iiifimage/MSS_Vat.ebr.32/Vat.ebr.32_0115_fa_0055r.jp2/full/full/0/default.jpg	train	

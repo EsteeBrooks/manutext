@@ -23,21 +23,35 @@
 
       </form>
       <h1>Result:</h1>
-
+      
       {% if msg %}
       <h2>{{ msg }}</h2>
       {% endif %}
 
       {% if img_src %}
-        <img src="{{ img_src }}" alt="Image could not be displayed">
+        <img src="{{ img_src }}" alt="Image could not be displayed" style="width:400px;height:auto;">
       {% endif %}
-     
+
+
       {% if extracted_text %}
         <p> The extracted text from the image above is: </p>
-        <br>
         <p><b dir="rtl"> {{ extracted_text }} </b></p>
       {% endif %}
-      
+
+      {% if correct_text %}
+      <p> The correct text for the image above is: </p>
+      <p><b dir="rtl"> {{ correct_text }} </b></p>
+      {% endif %}
+
+      {% if score %}
+      <h2>The accuracy score of the model is: {{ score }}</h2>
+      <h2>This is the fraction of correctly classified samples</h2>
+      {% endif %}
+
+      {% if src_matrix %}
+      <img src="{{ src_matrix }}" alt="Image could not be displayed" style="width:400px;height:auto;">
+      {% endif %}
+      <br>
     </div>
   </div>
 </div>

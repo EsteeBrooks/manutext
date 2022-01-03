@@ -13,7 +13,7 @@ body {
   padding: 30px;
   text-align: center;
   background: #4682b4;
-  color: white;
+  color: rgb(30, 30, 116);
   font-size: 30px;
 }
 
@@ -54,7 +54,8 @@ body {
   border-radius: 16px;
   background-color: #b0e0e6;
 }
-button, #image {
+button,
+#image {
   background-color: #397eb6; /* Green */
   border: none;
   color: white;
@@ -65,4 +66,8 @@ button, #image {
   font-size: 16px;
   border-radius: 16px;
   margin: 20px;
+}
+p {
+  padding-right: 70px;
+  padding-left: 70px;
 }
