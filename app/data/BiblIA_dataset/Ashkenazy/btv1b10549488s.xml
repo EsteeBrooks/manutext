@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>btv1b10549488s.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5604"
+          HEIGHT="8763"
+          PHYSICAL_IMG_NR="88"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5604"
+                  HEIGHT="8763">
+        
+        <TextBlock HPOS="852.0"
+                   VPOS="1027.0"
+                   WIDTH="1265.0"
+                   HEIGHT="5959.0"
+                   ID="eSc_textblock_92703"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2078 6986 2117 6947 2117 1187 2059 1046 1577 1027 1382 1066 934 1027 871 1090 852 6869 915 6966 2078 6986"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1279830"
+                    
+                    BASELINE="1026 1124 1046 1124 1562 1134 2049 1148 2069 1149" 
+                    HPOS="1022"
+                    VPOS="985"
+                    WIDTH="1045"
+                    HEIGHT="256">
+            <Shape><Polygon POINTS="1022 1117 1030 1007 1088 985 1161 1051 1234 993 1351 1007 1410 1058 1622 1029 1687 1073 1746 1036 1950 1036 2053 1066 2067 1146 2045 1219 1906 1212 1870 1241 1570 1234 1505 1204 1117 1226 1030 1197"/></Shape>
+	    <String CONTENT="המשכב אשר [ת](י)שכב עליו"
+                    HPOS="1022"
+                    VPOS="985"
+                    WIDTH="1045"
+                    HEIGHT="256"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279831"
+                    
+                    BASELINE="1021 1283 1041 1280 1110 1270 1265 1270 1416 1285 2088 1285 2108 1285" 
+                    HPOS="1015"
+                    VPOS="1204"
+                    WIDTH="1089"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="1015 1277 1022 1204 1775 1234 1877 1234 1906 1204 2082 1212 2104 1277 2031 1372 1819 1372 1775 1329 1695 1372 1461 1358 1432 1329 1337 1365 1022 1350"/></Shape>
+	    <String CONTENT="כל ימי זובה כמשכב נדתה"
+                    HPOS="1015"
+                    VPOS="1204"
+                    WIDTH="1089"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279832"
+                    
+                    BASELINE="1056 1414 1076 1416 1217 1431 2049 1431 2069 1431" 
+                    HPOS="1052"
+                    VPOS="1329"
+                    WIDTH="1015"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="1052 1409 1059 1365 1337 1365 1424 1329 1483 1365 1702 1372 1775 1329 1826 1380 2045 1365 2067 1423 2023 1504 1760 1511 1709 1475 1629 1511 1059 1489"/></Shape>
+	    <String CONTENT="יהיה לה וכל (ה)כלי אשר [תש&#39;]"
+                    HPOS="1052"
+                    VPOS="1329"
+                    WIDTH="1015"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279833"
+                    
+                    BASELINE="1017 1548 1037 1552 1110 1567 2010 1567 2069 1552 2088 1547" 
+                    HPOS="1015"
+                    VPOS="1475"
+                    WIDTH="1067"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="1015 1540 1030 1482 1636 1511 1702 1475 1760 1511 2060 1489 2082 1540 2053 1635 1892 1657 1315 1643 1264 1599 1212 1650 1022 1628"/></Shape>
+	    <String CONTENT="תשב עליו טמא יהיה [כט&#39;]"
+                    HPOS="1015"
+                    VPOS="1475"
+                    WIDTH="1067"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279834"
+                    
+                    BASELINE="997 1687 1017 1689 1149 1703 1976 1699 2044 1708 2064 1711" 
+                    HPOS="993"
+                    VPOS="1606"
+                    WIDTH="1067"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="993 1686 1000 1621 1220 1650 1271 1606 1307 1643 2038 1650 2060 1708 2023 1796 1760 1803 1578 1789 1548 1759 1497 1796 1344 1789 1285 1745 1242 1781 1000 1796"/></Shape>
+	    <String CONTENT="כטמאת נדתה : כל משכב(&#39;)"
+                    HPOS="993"
+                    VPOS="1606"
+                    WIDTH="1067"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279835"
+                    
+                    BASELINE="1017 1840 1037 1840 1392 1835 1509 1845 2049 1845 2069 1845" 
+                    HPOS="1015"
+                    VPOS="1752"
+                    WIDTH="1052"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="1015 1832 1044 1789 1249 1781 1293 1752 1344 1789 1490 1796 1541 1759 1585 1796 2045 1781 2067 1840 2038 1927 1022 1905"/></Shape>
+	    <String CONTENT="דתשכוב עלוהי כל יומי [ד/]"
+                    HPOS="1015"
+                    VPOS="1752"
+                    WIDTH="1052"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279836"
+                    
+                    BASELINE="1027 1975 1046 1981 1110 2000 1212 1991 2049 1991 2069 1991" 
+                    HPOS="1022"
+                    VPOS="1898"
+                    WIDTH="1045"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="1022 1971 1030 1913 1125 1898 1154 1927 1358 1935 1994 1920 2045 1927 2067 1986 2045 2059 1928 2081 1030 2059"/></Shape>
+	    <String CONTENT="דוב(ה)[א] כמשכב ריחוק(ה)[א]"
+                    HPOS="1022"
+                    VPOS="1898"
+                    WIDTH="1045"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279810"
+                    
+                    BASELINE="1036 2127 1056 2127 2035 2127 2055 2127" 
+                    HPOS="1030"
+                    VPOS="2059"
+                    WIDTH="1023"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="1030 2125 1044 2073 1103 2059 1870 2073 1899 2103 2038 2073 2053 2125 2023 2219 1914 2190 1775 2227 1044 2212"/></Shape>
+	    <String CONTENT="יה(י)[א] לה וכל מנא דתית[ו]ב"
+                    HPOS="1030"
+                    VPOS="2059"
+                    WIDTH="1023"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279800"
+                    
+                    BASELINE="1017 2263 1037 2263 2049 2263 2069 2263" 
+                    HPOS="1015"
+                    VPOS="2190"
+                    WIDTH="1052"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="1015 2256 1030 2212 1782 2227 1899 2190 1943 2219 2053 2212 2067 2256 2053 2336 1980 2373 1402 2336 1030 2358"/></Shape>
+	    <String CONTENT="עלוהי מסאב יה(י)[א] כסואב(&#39;)"
+                    HPOS="1015"
+                    VPOS="2190"
+                    WIDTH="1052"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279827"
+                    
+                    BASELINE="997 2404 1017 2404 1251 2400 1358 2409 1645 2414 1694 2429 1752 2419 1957 2424 2069 2409 2089 2406" 
+                    HPOS="993"
+                    VPOS="2329"
+                    WIDTH="1089"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="993 2402 1015 2351 1373 2329 1643 2366 1724 2336 1936 2366 2060 2344 2082 2402 2053 2504 1227 2504 1000 2468"/></Shape>
+	    <String CONTENT="ריחוק(ה)[א] : וכל הנ(ו)גע בם [יט/]"
+                    HPOS="993"
+                    VPOS="2329"
+                    WIDTH="1089"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279806"
+                    
+                    BASELINE="1021 2560 1041 2560 1879 2555 2020 2565 2040 2566" 
+                    HPOS="1015"
+                    VPOS="2475"
+                    WIDTH="1023"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="1015 2555 1022 2475 1220 2504 1980 2504 2038 2563 2016 2650 1863 2665 1022 2628"/></Shape>
+	    <String CONTENT="יטמא וכבס בגדיו ורחץ [ב/]"
+                    HPOS="1015"
+                    VPOS="2475"
+                    WIDTH="1023"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279811"
+                    
+                    BASELINE="978 2692 998 2692 1450 2692 1528 2701 2064 2706 2084 2706" 
+                    HPOS="971"
+                    VPOS="2592"
+                    WIDTH="1111"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="971 2687 979 2592 1015 2628 1373 2658 2053 2643 2082 2701 2016 2796 1461 2796 1417 2767 1278 2796 979 2760"/></Shape>
+	    <String CONTENT="במים וטמא עד הערב : וכל"
+                    HPOS="971"
+                    VPOS="2592"
+                    WIDTH="1111"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279802"
+                    
+                    BASELINE="1036 2843 1056 2843 1893 2852 2001 2843 2059 2857 2078 2862" 
+                    HPOS="1030"
+                    VPOS="2767"
+                    WIDTH="1045"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="1030 2840 1037 2774 1366 2796 1410 2767 1629 2804 2053 2782 2075 2855 2016 2942 1717 2935 1673 2899 1629 2942 1037 2913"/></Shape>
+	    <String CONTENT="דיקרב בהון יה(י)[א] מסאב [ו/]"
+                    HPOS="1030"
+                    VPOS="2767"
+                    WIDTH="1045"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279798"
+                    
+                    BASELINE="997 2970 1017 2974 1095 2989 1679 2984 2049 2994 2069 2995" 
+                    HPOS="993"
+                    VPOS="2906"
+                    WIDTH="1074"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="993 2964 1008 2906 1110 2935 1636 2935 1680 2906 1709 2935 2045 2942 2067 2994 2031 3067 1914 3088 1695 3081 1607 3045 1534 3081 1395 3052 1205 3081 1147 3052 1000 3067"/></Shape>
+	    <String CONTENT="ויצבע לבושוהי ויסחי [במ&#39;]"
+                    HPOS="993"
+                    VPOS="2906"
+                    WIDTH="1074"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279818"
+                    
+                    BASELINE="1026 3124 1046 3125 1431 3135 1538 3144 2044 3135 2064 3135" 
+                    HPOS="1022"
+                    VPOS="3045"
+                    WIDTH="1038"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="1022 3118 1030 3074 1541 3081 1600 3045 1790 3088 2038 3074 2060 3132 2016 3227 1139 3227 1030 3198"/></Shape>
+	    <String CONTENT="במיא ויה(י)[א] מסאב עד"
+                    HPOS="1022"
+                    VPOS="3045"
+                    WIDTH="1038"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279812"
+                    
+                    BASELINE="939 3261 959 3261 1382 3271 1431 3281 2001 3276 2069 3286 2089 3289" 
+                    HPOS="935"
+                    VPOS="3191"
+                    WIDTH="1147"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="935 3256 942 3198 993 3191 1132 3220 2060 3213 2082 3286 2031 3366 1797 3373 1665 3329 1592 3359 942 3366"/></Shape>
+	    <String CONTENT="רמשא : ואם טהרה מזובה"
+                    HPOS="935"
+                    VPOS="3191"
+                    WIDTH="1147"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279808"
+                    
+                    BASELINE="978 3412 998 3412 1470 3412 1519 3422 2030 3432 2050 3432" 
+                    HPOS="971"
+                    VPOS="3329"
+                    WIDTH="1074"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="971 3410 979 3366 1074 3344 1592 3366 1658 3329 1797 3373 2023 3366 2045 3424 2023 3497 1965 3519 979 3490"/></Shape>
+	    <String CONTENT="וספרה לה שבעת ימים [א&#39;]"
+                    HPOS="971"
+                    VPOS="3329"
+                    WIDTH="1074"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279824"
+                    
+                    BASELINE="1002 3553 1022 3553 1538 3563 1767 3573 1986 3568 2049 3578 2069 3581" 
+                    HPOS="1000"
+                    VPOS="3490"
+                    WIDTH="1067"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="1000 3549 1015 3490 1570 3490 1811 3527 2038 3497 2067 3578 2045 3695 1994 3643 1585 3651 1468 3607 1395 3643 1008 3636"/></Shape>
+	    <String CONTENT="(ו)אחר תטהר : ואם דכיאת"
+                    HPOS="1000"
+                    VPOS="3490"
+                    WIDTH="1067"
+                    HEIGHT="205"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279823"
+                    
+                    BASELINE="997 3698 1017 3695 1080 3685 1309 3690 1358 3680 1411 3695 1689 3699 1738 3709 2030 3709 2050 3709" 
+                    HPOS="993"
+                    VPOS="3607"
+                    WIDTH="1052"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="993 3695 1022 3629 1285 3651 1461 3607 1592 3658 2001 3651 2045 3702 2016 3789 1885 3775 1804 3804 1519 3768 1446 3797 1388 3768 1000 3768"/></Shape>
+	    <String CONTENT="מדובה ו(ת)מני לה שבע(א)[ת]"
+                    HPOS="993"
+                    VPOS="3607"
+                    WIDTH="1052"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279801"
+                    
+                    BASELINE="997 3827 1017 3831 1090 3845 1781 3841 1903 3850 2049 3850 2069 3850" 
+                    HPOS="993"
+                    VPOS="3760"
+                    WIDTH="1074"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="993 3826 1000 3775 1103 3760 1176 3789 1380 3768 1432 3797 2045 3797 2067 3848 2023 3928 1899 3950 1432 3906 1008 3914"/></Shape>
+	    <String CONTENT="יומין ובתר כן תדכי : וביום"
+                    HPOS="993"
+                    VPOS="3760"
+                    WIDTH="1074"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279821"
+                    
+                    BASELINE="963 3982 983 3982 1275 3977 1329 3987 1640 3992 1694 4006 1791 3996 2010 4001 2030 4001" 
+                    HPOS="957"
+                    VPOS="3906"
+                    WIDTH="1066"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="957 3979 964 3914 1249 3936 1424 3906 1622 3943 2001 3928 2023 3994 1980 4082 1570 4089 1322 4052 1161 4074 1008 4045 964 4067"/></Shape>
+	    <String CONTENT="השמיני תקח לה שתי תרים"
+                    HPOS="957"
+                    VPOS="3906"
+                    WIDTH="1066"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279797"
+                    
+                    BASELINE="997 4114 1017 4118 1129 4138 1962 4133 2030 4142 2050 4145" 
+                    HPOS="993"
+                    VPOS="4052"
+                    WIDTH="1052"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="993 4111 1000 4052 1570 4089 1950 4074 2023 4082 2045 4140 2009 4220 1885 4191 1848 4220 1643 4228 1600 4184 1519 4228 1300 4220 1227 4177 1139 4220 1008 4198"/></Shape>
+	    <String CONTENT="או שני בני יונה והביאה [/]"
+                    HPOS="993"
+                    VPOS="4052"
+                    WIDTH="1052"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279828"
+                    
+                    BASELINE="978 4255 998 4259 1071 4274 1285 4269 1338 4279 1996 4293 2016 4293" 
+                    HPOS="971"
+                    VPOS="4177"
+                    WIDTH="1038"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="971 4250 986 4206 1147 4220 1220 4177 1315 4235 1527 4228 1592 4184 1651 4235 1775 4235 1906 4191 1994 4220 2009 4286 1987 4359 1885 4374 1804 4374 1768 4337 1717 4374 979 4344"/></Shape>
+	    <String CONTENT="א(ו)תם אל הכהן אל פתח"
+                    HPOS="971"
+                    VPOS="4177"
+                    WIDTH="1038"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279815"
+                    
+                    BASELINE="905 4410 925 4410 1353 4420 1509 4430 1884 4425 2001 4435 2021 4437" 
+                    HPOS="898"
+                    VPOS="4315"
+                    WIDTH="1118"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="898 4403 942 4315 1161 4374 1724 4374 1760 4344 2001 4366 2016 4432 1994 4498 1936 4512 1592 4512 1512 4461 1446 4505 1000 4491 905 4527"/></Shape>
+	    <String CONTENT="אהל מועד : וביומא תמינא&#39;"
+                    HPOS="898"
+                    VPOS="4315"
+                    WIDTH="1118"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279826"
+                    
+                    BASELINE="953 4554 973 4551 1037 4542 1153 4551 2010 4566 2030 4566" 
+                    HPOS="949"
+                    VPOS="4469"
+                    WIDTH="1074"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="949 4549 1008 4491 1358 4512 1534 4469 1622 4520 2009 4505 2023 4564 1994 4644 1746 4658 1052 4637 957 4607"/></Shape>
+	    <String CONTENT="תיסב לה תרתין שפנינין [א&#39;]"
+                    HPOS="949"
+                    VPOS="4469"
+                    WIDTH="1074"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279796"
+                    
+                    BASELINE="987 4686 1007 4688 1119 4702 1893 4702 1942 4693 2010 4707 2030 4711" 
+                    HPOS="986"
+                    VPOS="4622"
+                    WIDTH="1037"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="986 4680 993 4622 2001 4644 2023 4710 1972 4783 1125 4783 1095 4753 993 4775"/></Shape>
+	    <String CONTENT="או תרין בני יונה ותיתי [ית/]"
+                    HPOS="986"
+                    VPOS="4622"
+                    WIDTH="1037"
+                    HEIGHT="161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279803"
+                    
+                    BASELINE="958 4817 978 4819 1149 4839 1898 4834 2020 4843 2040 4844" 
+                    HPOS="957"
+                    VPOS="4753"
+                    WIDTH="1081"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="957 4812 964 4761 1095 4753 1395 4790 2016 4768 2038 4841 1965 4929 1731 4907 1410 4936 1307 4899 964 4899"/></Shape>
+	    <String CONTENT="יתהון לות כהנא לתרע [מ&#39;]"
+                    HPOS="957"
+                    VPOS="4753"
+                    WIDTH="1081"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279807"
+                    
+                    BASELINE="958 4983 978 4980 1041 4970 1528 4970 1592 4980 1986 4980 2006 4980" 
+                    HPOS="957"
+                    VPOS="4899"
+                    WIDTH="1044"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="957 4980 964 4899 1322 4907 1410 4936 1980 4929 2001 4973 1958 5067 964 5046"/></Shape>
+	    <String CONTENT="משכן זימנא : ועשה הכהן"
+                    HPOS="957"
+                    VPOS="4899"
+                    WIDTH="1044"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279799"
+                    
+                    BASELINE="982 5093 1002 5097 1071 5111 1567 5106 1631 5116 1986 5121 2006 5121" 
+                    HPOS="979"
+                    VPOS="5038"
+                    WIDTH="1022"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="979 5089 993 5038 1519 5075 1892 5053 1980 5060 2001 5119 1980 5192 1928 5206 1600 5206 1548 5155 1490 5206 1132 5162 986 5184"/></Shape>
+	    <String CONTENT="את האחד חטאת ואת"
+                    HPOS="979"
+                    VPOS="5038"
+                    WIDTH="1022"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279814"
+                    
+                    BASELINE="978 5248 998 5248 1285 5243 1908 5262 2020 5272 2040 5274" 
+                    HPOS="971"
+                    VPOS="5155"
+                    WIDTH="1067"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="971 5243 986 5192 1117 5162 1220 5199 1358 5177 1497 5206 1556 5155 1607 5206 1906 5213 2023 5177 2038 5272 2016 5345 1972 5352 1768 5360 1695 5294 1607 5352 979 5330"/></Shape>
+	    <String CONTENT="האחד עלה וכפר עליה"
+                    HPOS="971"
+                    VPOS="5155"
+                    WIDTH="1067"
+                    HEIGHT="205"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279825"
+                    
+                    BASELINE="939 5392 959 5389 1032 5379 1134 5379 1192 5389 1621 5394 1670 5403 2030 5394 2050 5394" 
+                    HPOS="935"
+                    VPOS="5294"
+                    WIDTH="1110"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="935 5389 942 5308 1614 5345 1687 5294 1768 5352 2001 5345 2045 5389 1994 5491 942 5454"/></Shape>
+	    <String CONTENT="הכהן לפני יהוה מזוב [טמ/]"
+                    HPOS="935"
+                    VPOS="5294"
+                    WIDTH="1110"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279820"
+                    
+                    BASELINE="982 5540 1002 5540 1304 5535 1426 5545 1952 5559 2010 5545 2029 5540" 
+                    HPOS="979"
+                    VPOS="5462"
+                    WIDTH="1044"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="979 5535 986 5462 2001 5491 2023 5535 2001 5608 1958 5630 1782 5644 1578 5608 1366 5622 1337 5593 1300 5622 1139 5630 1037 5579 986 5608"/></Shape>
+	    <String CONTENT="טמאתה : ויעבד כהנא ית"
+                    HPOS="979"
+                    VPOS="5462"
+                    WIDTH="1044"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279809"
+                    
+                    BASELINE="935 5656 954 5661 1017 5676 1397 5671 1455 5681 1947 5691 2010 5681 2030 5678" 
+                    HPOS="927"
+                    VPOS="5586"
+                    WIDTH="1096"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="927 5652 935 5615 1037 5586 1132 5630 1322 5601 1351 5630 1592 5615 1665 5644 2001 5615 2023 5674 2001 5754 1950 5776 1242 5761 1190 5732 1139 5768 1000 5776 935 5747"/></Shape>
+	    <String CONTENT="חד חטתא וית חד עלתא"
+                    HPOS="927"
+                    VPOS="5586"
+                    WIDTH="1096"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279822"
+                    
+                    BASELINE="953 5820 973 5817 1037 5807 1095 5817 1577 5822 1626 5832 1855 5827 2030 5837 2050 5838" 
+                    HPOS="949"
+                    VPOS="5732"
+                    WIDTH="1096"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="949 5812 971 5732 1008 5768 1980 5768 2045 5834 1972 5907 1790 5922 1738 5893 1570 5922 1475 5878 1293 5915 957 5893"/></Shape>
+	    <String CONTENT="ויכפר על[ו]ה[י] כהנא קדם ייי"
+                    HPOS="949"
+                    VPOS="5732"
+                    WIDTH="1096"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279804"
+                    
+                    BASELINE="905 5948 925 5949 1217 5958 1265 5973 1324 5963 1898 5963 2030 5973 2050 5975" 
+                    HPOS="898"
+                    VPOS="5878"
+                    WIDTH="1147"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="898 5944 913 5878 1410 5922 1483 5885 1578 5922 1724 5893 2031 5900 2045 5973 1972 6053 1227 6053 1161 6024 905 6046"/></Shape>
+	    <String CONTENT="מדוב סאובת(ה)[א] : והזרתם את"
+                    HPOS="898"
+                    VPOS="5878"
+                    WIDTH="1147"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279817"
+                    
+                    BASELINE="978 6104 998 6104 1358 6100 1455 6109 1971 6114 1991 6114" 
+                    HPOS="971"
+                    VPOS="6024"
+                    WIDTH="1016"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="971 6097 979 6039 1176 6024 1519 6061 1965 6053 1987 6112 1965 6199 979 6177"/></Shape>
+	    <String CONTENT="בני ישראל מטמא(ו)תם [ו/]"
+                    HPOS="971"
+                    VPOS="6024"
+                    WIDTH="1016"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279805"
+                    
+                    BASELINE="958 6250 978 6250 1119 6250 1187 6265 1299 6255 1937 6255 2001 6265 2021 6268" 
+                    HPOS="957"
+                    VPOS="6170"
+                    WIDTH="1059"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="957 6243 964 6170 1585 6199 1848 6177 1994 6192 2016 6265 1980 6331 1892 6345 964 6309"/></Shape>
+	    <String CONTENT="ולא ימתו בטמאתם [בט&#39;]"
+                    HPOS="957"
+                    VPOS="6170"
+                    WIDTH="1059"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279819"
+                    
+                    BASELINE="973 6376 993 6377 1265 6387 1363 6396 1893 6392 2010 6401 2030 6403" 
+                    HPOS="971"
+                    VPOS="6316"
+                    WIDTH="1052"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="971 6375 993 6316 1256 6345 1980 6338 2023 6396 1972 6484 979 6462"/></Shape>
+	    <String CONTENT="בטמאם את משכני אשר"
+                    HPOS="971"
+                    VPOS="6316"
+                    WIDTH="1052"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279813"
+                    
+                    BASELINE="939 6514 959 6518 1027 6533 1504 6528 1553 6538 1991 6543 2011 6543" 
+                    HPOS="935"
+                    VPOS="6455"
+                    WIDTH="1074"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="935 6513 957 6455 1987 6491 2009 6535 1965 6637 1687 6623 1643 6586 1592 6630 1446 6601 1066 6616 1008 6572 942 6594"/></Shape>
+	    <String CONTENT="בתוכם : ותפרשון ית בני [י/]"
+                    HPOS="935"
+                    VPOS="6455"
+                    WIDTH="1074"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279816"
+                    
+                    BASELINE="944 6670 964 6674 1037 6689 1095 6679 1212 6679 1270 6689 1952 6689 1972 6689" 
+                    HPOS="942"
+                    VPOS="6572"
+                    WIDTH="1023"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="942 6667 949 6594 1008 6572 1059 6616 1600 6630 1658 6594 1738 6630 1943 6630 1965 6681 1943 6754 1885 6769 949 6740"/></Shape>
+	    <String CONTENT="ישראל מסואבתהון ולא"
+                    HPOS="942"
+                    VPOS="6572"
+                    WIDTH="1023"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279829"
+                    
+                    BASELINE="958 6800 978 6801 1460 6830 1966 6820 1986 6820" 
+                    HPOS="957"
+                    VPOS="6740"
+                    WIDTH="1023"
+                    HEIGHT="285">
+            <Shape><Polygon POINTS="957 6798 971 6740 1132 6769 1958 6754 1980 6813 1958 7017 1885 6973 1811 7003 1775 6966 1695 6995 1585 6959 1380 7025 1271 6959 1220 6981 1125 6930 964 6937"/></Shape>
+	    <String CONTENT="ימותון בסואבתהון בסא [/]"
+                    HPOS="957"
+                    VPOS="6740"
+                    WIDTH="1023"
+                    HEIGHT="285"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2293.0"
+                   VPOS="1027.0"
+                   WIDTH="1266.0"
+                   HEIGHT="5998.0"
+                   ID="eSc_textblock_92704"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2877 7025 3096 6986 3520 7005 3559 6966 3520 6265 3559 5233 3559 1168 3520 1071 3461 1046 2375 1027 2293 1109 2293 6791 2312 6927 2375 7005 2877 7025"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1279849"
+                    
+                    BASELINE="2416 1150 2436 1150 3179 1153 3495 1163 3515 1164" 
+                    HPOS="2411"
+                    VPOS="1022"
+                    WIDTH="1103"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="2411 1146 2433 1022 2535 1073 2688 1073 2776 1036 2864 1088 3046 1044 3090 1080 3273 1080 3309 1044 3404 1080 3492 1051 3514 1161 3492 1241 3390 1256 3339 1204 3280 1248 3112 1219 2981 1248 2418 1219"/></Shape>
+	    <String CONTENT="וכל אשר תשב עליו יטמא :"
+                    HPOS="2411"
+                    VPOS="1022"
+                    WIDTH="1103"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279850"
+                    
+                    BASELINE="2477 1294 2497 1294 2687 1290 2736 1299 3291 1304 3456 1314 3529 1304 3549 1301" 
+                    HPOS="2476"
+                    VPOS="1212"
+                    WIDTH="1067"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="2476 1292 2491 1219 3287 1248 3353 1212 3397 1256 3528 1234 3543 1299 3485 1387 3039 1394 2944 1358 2864 1394 2484 1350"/></Shape>
+	    <String CONTENT="וכל דתישכוב עלוהי [בריח/]"
+                    HPOS="2476"
+                    VPOS="1212"
+                    WIDTH="1067"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279851"
+                    
+                    BASELINE="2482 1441 2502 1441 2746 1441 2794 1450 3461 1445 3520 1455 3540 1458" 
+                    HPOS="2476"
+                    VPOS="1350"
+                    WIDTH="1060"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2476 1438 2484 1350 2805 1387 2951 1358 3061 1402 3141 1372 3470 1402 3514 1365 3536 1453 3485 1540 2484 1511"/></Shape>
+	    <String CONTENT="בריחוק(ה)[א] יה(י)[א] מסאב וכל"
+                    HPOS="2476"
+                    VPOS="1350"
+                    WIDTH="1060"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279852"
+                    
+                    BASELINE="2459 1562 2478 1567 2541 1582 2750 1587 3247 1587 3344 1577 3403 1591 3486 1591 3506 1591" 
+                    HPOS="2454"
+                    VPOS="1504"
+                    WIDTH="1045"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2454 1555 2462 1518 3090 1504 3236 1540 3368 1511 3477 1533 3499 1584 3477 1679 2462 1657"/></Shape>
+	    <String CONTENT="ד[י](ת)ת[י]ב עלוהי יה(י)[א] מסאב :"
+                    HPOS="2454"
+                    VPOS="1504"
+                    WIDTH="1045"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279853"
+                    
+                    BASELINE="2438 1704 2458 1708 2536 1723 2872 1718 2935 1728 3383 1733 3495 1742 3515 1744" 
+                    HPOS="2433"
+                    VPOS="1643"
+                    WIDTH="1081"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="2433 1701 2447 1643 2637 1672 3353 1664 3499 1672 3514 1737 3492 1803 3441 1825 2959 1796 2739 1825 2440 1781"/></Shape>
+	    <String CONTENT="וכל הנגע במשכבה יכבס [/]"
+                    HPOS="2433"
+                    VPOS="1643"
+                    WIDTH="1081"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279854"
+                    
+                    BASELINE="2438 1842 2458 1845 2575 1864 2911 1869 2960 1879 3495 1879 3515 1879" 
+                    HPOS="2433"
+                    VPOS="1789"
+                    WIDTH="1081"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="2433 1840 2440 1789 2739 1825 3360 1803 3492 1811 3514 1876 3492 1964 3412 1978 3287 1942 2915 1971 2440 1935"/></Shape>
+	    <String CONTENT="בגדיו ורחץ במים וטמא עד"
+                    HPOS="2433"
+                    VPOS="1789"
+                    WIDTH="1081"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279856"
+                    
+                    BASELINE="2458 2005 2478 2005 3388 2025 3500 2034 3520 2036" 
+                    HPOS="2454"
+                    VPOS="1935"
+                    WIDTH="1060"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2454 2000 2491 1935 2929 1971 3090 1942 3222 1978 3470 1971 3514 2030 3470 2110 3353 2125 3258 2117 3200 2073 3156 2103 3075 2081 2951 2110 2462 2088"/></Shape>
+	    <String CONTENT="הערב : וכל דיקרב במשכבה"
+                    HPOS="2454"
+                    VPOS="1935"
+                    WIDTH="1060"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279857"
+                    
+                    BASELINE="2438 2159 2458 2156 2522 2146 2789 2146 2892 2156 3291 2161 3340 2171 3490 2161 3510 2160" 
+                    HPOS="2433"
+                    VPOS="2081"
+                    WIDTH="1074"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2433 2154 2440 2081 2893 2110 3207 2081 3331 2117 3485 2103 3507 2154 3485 2234 3419 2256 3317 2219 3280 2249 2440 2219"/></Shape>
+	    <String CONTENT="יצבע לבושוהי ויסחי במיא"
+                    HPOS="2433"
+                    VPOS="2081"
+                    WIDTH="1074"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279858"
+                    
+                    BASELINE="2477 2282 2497 2283 2931 2297 3038 2307 3432 2307 3490 2292 3509 2287" 
+                    HPOS="2476"
+                    VPOS="2227"
+                    WIDTH="1031"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2476 2278 2484 2227 3192 2256 3317 2227 3360 2256 3485 2249 3507 2285 3470 2395 3302 2373 3090 2402 2959 2358 2900 2387 2812 2344 2769 2387 2666 2387 2484 2351"/></Shape>
+	    <String CONTENT="ויה(י)[א] מסאב עד רמשא : [ו/]"
+                    HPOS="2476"
+                    VPOS="2227"
+                    WIDTH="1031"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279859"
+                    
+                    BASELINE="2477 2434 2497 2434 2629 2434 2741 2443 3023 2439 3072 2448 3471 2453 3491 2453" 
+                    HPOS="2476"
+                    VPOS="2344"
+                    WIDTH="1009"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="2476 2431 2484 2358 2776 2380 2820 2344 2893 2387 2944 2358 3068 2395 3339 2373 3463 2395 3485 2446 3463 2541 2484 2512"/></Shape>
+	    <String CONTENT="וכל הנגע בכל כלי אשר [ת/]"
+                    HPOS="2476"
+                    VPOS="2344"
+                    WIDTH="1009"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279871"
+                    
+                    BASELINE="2424 2581 2444 2580 2634 2575 2687 2585 3033 2589 3140 2599 3505 2589 3525 2588" 
+                    HPOS="2418"
+                    VPOS="2497"
+                    WIDTH="1103"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2418 2577 2440 2497 2820 2533 3499 2526 3521 2585 3499 2650 3441 2680 2754 2672 2696 2614 2601 2658 2498 2665 2462 2636 2425 2672"/></Shape>
+	    <String CONTENT="תשב עליו יכבס בגדיו ורחץ"
+                    HPOS="2418"
+                    VPOS="2497"
+                    WIDTH="1103"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279872"
+                    
+                    BASELINE="2453 2724 2473 2721 2536 2711 2853 2726 2901 2736 3388 2731 3510 2740 3530 2741" 
+                    HPOS="2447"
+                    VPOS="2636"
+                    WIDTH="1081"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="2447 2723 2462 2636 2491 2665 2878 2687 3507 2665 3528 2738 3485 2818 3397 2833 3090 2826 3039 2789 2929 2826 2542 2811 2454 2782"/></Shape>
+	    <String CONTENT="במים וטמא עד הערב : וכל"
+                    HPOS="2447"
+                    VPOS="2636"
+                    WIDTH="1081"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279873"
+                    
+                    BASELINE="2420 2852 2439 2857 2502 2872 2780 2867 2833 2877 3154 2882 3203 2891 3495 2891 3515 2891" 
+                    HPOS="2418"
+                    VPOS="2782"
+                    WIDTH="1096"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="2418 2847 2433 2782 2732 2826 3054 2796 3185 2833 3492 2818 3514 2884 3470 2979 3046 2957 2988 2986 2937 2942 2849 2972 2761 2935 2630 2964 2425 2928"/></Shape>
+	    <String CONTENT="דיקרב בכל מאן דיתיב [ע/]"
+                    HPOS="2418"
+                    VPOS="2782"
+                    WIDTH="1096"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279874"
+                    
+                    BASELINE="2453 3002 2473 3003 2921 3028 3383 3023 3500 3032 3520 3034" 
+                    HPOS="2447"
+                    VPOS="2935"
+                    WIDTH="1067"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2447 3001 2454 2942 2878 2972 2929 2935 2981 2979 3492 2964 3514 3030 3448 3118 2454 3096"/></Shape>
+	    <String CONTENT="עלוהי יצבע לבושוהי ויסחי"
+                    HPOS="2447"
+                    VPOS="2935"
+                    WIDTH="1067"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279875"
+                    
+                    BASELINE="2458 3143 2478 3144 2804 3164 2853 3159 3023 3169 3471 3174 3491 3174" 
+                    HPOS="2454"
+                    VPOS="3088"
+                    WIDTH="1031"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="2454 3140 2484 3088 2981 3103 3046 3132 3258 3103 3455 3118 3485 3169 3455 3256 3368 3264 2462 3220"/></Shape>
+	    <String CONTENT="במיא ויה(י)[א] מסאב עד [ר/]"
+                    HPOS="2454"
+                    VPOS="3088"
+                    WIDTH="1031"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279876"
+                    
+                    BASELINE="2448 3282 2468 3286 2531 3300 2911 3295 3023 3305 3413 3310 3471 3320 3491 3323" 
+                    HPOS="2447"
+                    VPOS="3213"
+                    WIDTH="1038"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="2447 3278 2454 3213 2776 3256 2834 3220 2871 3249 3119 3264 3463 3256 3485 3322 3463 3388 3331 3395 3024 3366 2878 3388 2834 3344 2783 3388 2454 3359"/></Shape>
+	    <String CONTENT="רמשא : ואם על המשכב [/]"
+                    HPOS="2447"
+                    VPOS="3213"
+                    WIDTH="1038"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279877"
+                    
+                    BASELINE="2438 3437 2458 3437 2658 3432 2716 3441 3154 3446 3291 3456 3471 3446 3491 3445" 
+                    HPOS="2433"
+                    VPOS="3344"
+                    WIDTH="1052"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2433 3432 2440 3366 2791 3381 2834 3344 2878 3388 3024 3366 3295 3410 3463 3395 3485 3439 3448 3534 2907 3527 2842 3483 2776 3519 2440 3512"/></Shape>
+	    <String CONTENT="הוא או על הכלי אשר הוא"
+                    HPOS="2433"
+                    VPOS="3344"
+                    WIDTH="1052"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279862"
+                    
+                    BASELINE="2463 3583 2483 3583 2862 3583 2960 3592 3447 3583 3467 3583" 
+                    HPOS="2462"
+                    VPOS="3505"
+                    WIDTH="1001"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="2462 3578 2469 3512 2571 3505 3185 3549 3441 3534 3463 3578 3441 3665 3353 3687 2469 3643"/></Shape>
+	    <String CONTENT="ישבת עליו בנגעו בו יטמא"
+                    HPOS="2462"
+                    VPOS="3505"
+                    WIDTH="1001"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279838"
+                    
+                    BASELINE="2419 3712 2439 3714 2570 3729 3451 3729 3471 3729" 
+                    HPOS="2418"
+                    VPOS="3643"
+                    WIDTH="1052"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2418 3709 2425 3643 2725 3643 2812 3680 3448 3665 3470 3724 3434 3826 3339 3797 3083 3811 3017 3775 2893 3811 2425 3789"/></Shape>
+	    <String CONTENT="עד הערב : ואם על משכב(א)[ה]"
+                    HPOS="2418"
+                    VPOS="3643"
+                    WIDTH="1052"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279855"
+                    
+                    BASELINE="2424 3865 2444 3865 2799 3860 2848 3870 3086 3870 3271 3884 3451 3884 3471 3884" 
+                    HPOS="2418"
+                    VPOS="3775"
+                    WIDTH="1052"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2418 3863 2425 3797 2973 3811 3017 3775 3141 3819 3448 3819 3470 3877 3426 3957 3170 3965 3068 3936 2871 3965 2425 3921"/></Shape>
+	    <String CONTENT="הוא או על מנא דהיא [ית/]"
+                    HPOS="2418"
+                    VPOS="3775"
+                    WIDTH="1052"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279843"
+                    
+                    BASELINE="2463 4000 2483 4001 2823 4011 2882 4021 3456 4021 3476 4021" 
+                    HPOS="2462"
+                    VPOS="3936"
+                    WIDTH="1008"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2462 3994 2469 3943 2666 3936 2871 3972 3448 3957 3470 4016 3448 4111 2469 4082"/></Shape>
+	    <String CONTENT="יתבא עלוהי במקרביה [/]"
+                    HPOS="2462"
+                    VPOS="3936"
+                    WIDTH="1008"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279844"
+                    
+                    BASELINE="2458 4152 2478 4152 2931 4152 2999 4162 3383 4167 3490 4181 3510 4184" 
+                    HPOS="2454"
+                    VPOS="4082"
+                    WIDTH="1053"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2454 4147 2469 4082 3448 4118 3492 4096 3507 4177 3434 4257 2462 4235"/></Shape>
+	    <String CONTENT="ביה יה(י)[א] מסאב עד רמש&#39; :"
+                    HPOS="2454"
+                    VPOS="4082"
+                    WIDTH="1053"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279864"
+                    
+                    BASELINE="2404 4291 2424 4293 2551 4308 2672 4303 2770 4313 3451 4303 3471 4303" 
+                    HPOS="2403"
+                    VPOS="4228"
+                    WIDTH="1067"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2403 4286 2411 4228 3075 4228 3448 4264 3470 4301 3441 4403 2411 4374"/></Shape>
+	    <String CONTENT="ואם שכב ישכב איש אתה"
+                    HPOS="2403"
+                    VPOS="4228"
+                    WIDTH="1067"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279841"
+                    
+                    BASELINE="2458 4449 2478 4449 3140 4444 3247 4454 3451 4454 3471 4454" 
+                    HPOS="2454"
+                    VPOS="4366"
+                    WIDTH="1016"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="2454 4447 2462 4381 2871 4366 2951 4403 3448 4396 3470 4447 3441 4527 3302 4542 2915 4542 2798 4491 2725 4527 2462 4512"/></Shape>
+	    <String CONTENT="ותהי נדתה עליו וטמא [ע/]"
+                    HPOS="2454"
+                    VPOS="4366"
+                    WIDTH="1016"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279863"
+                    
+                    BASELINE="2371 4569 2527 4571 2634 4585 3456 4585 3476 4585" 
+                    HPOS="2367"
+                    VPOS="4505"
+                    WIDTH="1103"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="2367 4564 2374 4505 2805 4505 3448 4527 3470 4578 3448 4651 3412 4666 2374 4644"/></Shape>
+	    <String CONTENT="שבעת ימים וכל המשכב [/]"
+                    HPOS="2367"
+                    VPOS="4505"
+                    WIDTH="1103"
+                    HEIGHT="161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279839"
+                    
+                    BASELINE="2376 4717 2522 4717 3184 4717 3471 4732 3491 4733" 
+                    HPOS="2374"
+                    VPOS="4644"
+                    WIDTH="1111"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="2374 4710 2396 4644 3463 4658 3485 4732 3441 4805 2381 4783"/></Shape>
+	    <String CONTENT="אשר ישכב עליו יטמא : [ו/]"
+                    HPOS="2374"
+                    VPOS="4644"
+                    WIDTH="1111"
+                    HEIGHT="161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279861"
+                    
+                    BASELINE="2410 4838 2429 4843 2492 4858 2853 4853 2911 4863 3471 4873 3491 4873" 
+                    HPOS="2403"
+                    VPOS="4768"
+                    WIDTH="1082"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2403 4834 2411 4783 2915 4812 2959 4768 3032 4819 3463 4797 3485 4870 3434 4951 2593 4951 2549 4899 2411 4921"/></Shape>
+	    <String CONTENT="ואם משכ[ו]ב ישכוב גבר [י/]"
+                    HPOS="2403"
+                    VPOS="4768"
+                    WIDTH="1082"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279869"
+                    
+                    BASELINE="2443 4995 2463 4994 2614 4990 2672 4999 3466 5009 3486 5009" 
+                    HPOS="2440"
+                    VPOS="4899"
+                    WIDTH="1045"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="2440 4994 2447 4921 2542 4899 2593 4943 3463 4936 3485 5002 3441 5097 3280 5060 3156 5097 2798 5097 2688 5053 2637 5082 2447 5067"/></Shape>
+	    <String CONTENT="יתה ויה(י)[א] ריחוק(ה)[א] עלוהי"
+                    HPOS="2440"
+                    VPOS="4899"
+                    WIDTH="1045"
+                    HEIGHT="198"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279860"
+                    
+                    BASELINE="2404 5137 2424 5136 2492 5131 2833 5140 2882 5155 2999 5145 3451 5150 3471 5150" 
+                    HPOS="2403"
+                    VPOS="5060"
+                    WIDTH="1067"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2403 5133 2418 5060 2601 5089 2674 5060 2798 5089 2981 5067 3127 5104 3280 5060 3455 5097 3470 5148 3441 5228 3339 5235 3302 5206 3112 5243 2995 5243 2915 5199 2864 5228 2783 5206 2725 5243 2593 5206 2491 5235 2411 5213"/></Shape>
+	    <String CONTENT="ויה(י)[א] מסאב שבע(א)[ת] יומין"
+                    HPOS="2403"
+                    VPOS="5060"
+                    WIDTH="1067"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279845"
+                    
+                    BASELINE="2429 5287 2449 5287 3447 5277 3467 5277" 
+                    HPOS="2425"
+                    VPOS="5199"
+                    WIDTH="1038"
+                    HEIGHT="285">
+            <Shape><Polygon POINTS="2425 5279 2433 5221 2498 5235 2535 5199 2725 5235 2900 5199 3010 5250 3295 5213 3324 5243 3441 5235 3463 5272 3441 5374 3412 5381 3185 5367 3046 5433 2988 5411 2944 5454 2893 5433 2776 5484 2717 5440 2622 5484 2433 5462"/></Shape>
+	    <String CONTENT="וכל משכבא עלוהי יה(י)[א]"
+                    HPOS="2425"
+                    VPOS="5199"
+                    WIDTH="1038"
+                    HEIGHT="285"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279870"
+                    
+                    BASELINE="3169 5422 3189 5423 3451 5433 3471 5434" 
+                    HPOS="3163"
+                    VPOS="5367"
+                    WIDTH="307"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="3163 5418 3178 5367 3455 5374 3470 5433 3426 5513 3258 5542 3170 5513"/></Shape>
+	    <String CONTENT="מסאב :"
+                    HPOS="3163"
+                    VPOS="5367"
+                    WIDTH="307"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279867"
+                    
+                    BASELINE="2404 5554 2424 5554 2658 5554 2721 5564 2999 5569 3057 5583 3218 5574 3451 5574 3471 5574" 
+                    HPOS="2403"
+                    VPOS="5447"
+                    WIDTH="1067"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="2403 5549 2418 5484 2776 5498 2907 5447 2981 5506 3068 5484 3265 5535 3455 5513 3470 5571 3434 5659 2411 5637"/></Shape>
+	    <String CONTENT="ואשה כי יזוב זוב דמה ימים"
+                    HPOS="2403"
+                    VPOS="5447"
+                    WIDTH="1067"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279868"
+                    
+                    BASELINE="2399 5695 2419 5695 3062 5705 3159 5715 3383 5715 3451 5700 3471 5696" 
+                    HPOS="2396"
+                    VPOS="5637"
+                    WIDTH="1074"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="2396 5688 2403 5644 3090 5637 3404 5652 3470 5695 3441 5798 3178 5805 3083 5761 2886 5798 2403 5776"/></Shape>
+	    <String CONTENT="רבים בלא עת נדתה או כי"
+                    HPOS="2396"
+                    VPOS="5637"
+                    WIDTH="1074"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279846"
+                    
+                    BASELINE="2424 5836 2444 5837 2809 5851 3437 5851 3457 5851" 
+                    HPOS="2418"
+                    VPOS="5761"
+                    WIDTH="1037"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2418 5834 2425 5776 2710 5768 2732 5798 2951 5805 3097 5761 3170 5798 3434 5798 3455 5849 3412 5944 2425 5915"/></Shape>
+	    <String CONTENT="תזוב על נדתה כל ימי זוב [/]"
+                    HPOS="2418"
+                    VPOS="5761"
+                    WIDTH="1037"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279847"
+                    
+                    BASELINE="2380 5970 2400 5973 2517 5988 2853 5983 2906 5992 3471 5997 3491 5997" 
+                    HPOS="2374"
+                    VPOS="5915"
+                    WIDTH="1111"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="2374 5966 2403 5915 2973 5944 3463 5922 3485 5995 3419 6082 3163 6097 2856 6068 2681 6090 2630 6039 2579 6082 2381 6053"/></Shape>
+	    <String CONTENT="טמאתה כימי נדתה תהיה"
+                    HPOS="2374"
+                    VPOS="5915"
+                    WIDTH="1111"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279842"
+                    
+                    BASELINE="2370 6123 2525 6141 2794 6134 2960 6143 3456 6143 3476 6143" 
+                    HPOS="2367"
+                    VPOS="6061"
+                    WIDTH="1103"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="2367 6119 2374 6061 2681 6090 2973 6068 3448 6082 3470 6141 3419 6221 2374 6199"/></Shape>
+	    <String CONTENT="טמאה הוא : ואיתתא ארי"
+                    HPOS="2367"
+                    VPOS="6061"
+                    WIDTH="1103"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279837"
+                    
+                    BASELINE="2385 6275 2405 6275 3130 6275 3189 6285 3447 6285 3467 6285" 
+                    HPOS="2381"
+                    VPOS="6207"
+                    WIDTH="1082"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="2381 6272 2389 6214 3163 6207 3200 6236 3441 6221 3463 6280 3390 6367 2739 6360 2703 6323 2644 6353 2389 6345"/></Shape>
+	    <String CONTENT="ת(ד)[ז]וב דוב דמה יומין סגיאין"
+                    HPOS="2381"
+                    VPOS="6207"
+                    WIDTH="1082"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279848"
+                    
+                    BASELINE="2360 6423 2380 6421 2492 6411 2877 6416 2935 6406 2984 6421 3442 6426 3462 6426" 
+                    HPOS="2359"
+                    VPOS="6323"
+                    WIDTH="1096"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2359 6418 2367 6353 2630 6360 2688 6323 2739 6360 3434 6353 3455 6418 3426 6491 3331 6513 3097 6506 3061 6470 3024 6506 2747 6513 2601 6477 2367 6499"/></Shape>
+	    <String CONTENT="בלא עידן ריחוק(ה)[א] או ארי"
+                    HPOS="2359"
+                    VPOS="6323"
+                    WIDTH="1096"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279866"
+                    
+                    BASELINE="2385 6560 2405 6557 2478 6547 2590 6547 2643 6557 2823 6562 3476 6562 3496 6562" 
+                    HPOS="2381"
+                    VPOS="6477"
+                    WIDTH="1111"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2381 6557 2396 6499 2579 6477 2754 6521 2915 6491 3046 6513 3075 6484 3339 6513 3477 6484 3492 6557 3419 6637 3287 6652 3112 6652 2995 6608 2834 6652 2454 6637 2389 6594"/></Shape>
+	    <String CONTENT="תדוב על ריחוק(ה)[א] כל יומי"
+                    HPOS="2381"
+                    VPOS="6477"
+                    WIDTH="1111"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279840"
+                    
+                    BASELINE="2399 6715 2419 6713 2541 6703 3223 6703 3471 6713 3491 6714" 
+                    HPOS="2396"
+                    VPOS="6608"
+                    WIDTH="1089"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="2396 6710 2403 6608 2447 6637 2776 6652 2973 6616 3112 6652 3463 6623 3485 6710 3353 6791 2403 6769"/></Shape>
+	    <String CONTENT="דוב סובת(ה)[א] כיומי ריחוק(ה)[א]"
+                    HPOS="2396"
+                    VPOS="6608"
+                    WIDTH="1089"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279865"
+                    
+                    BASELINE="2399 6826 2419 6830 2492 6844 3442 6835 3462 6835" 
+                    HPOS="2396"
+                    VPOS="6769"
+                    WIDTH="1059"
+                    HEIGHT="270">
+            <Shape><Polygon POINTS="2396 6820 2411 6776 2557 6769 2732 6798 3434 6776 3455 6827 3441 7003 3295 7039 3170 6988 2937 6988 2886 7017 2798 6995 2717 7039 2637 6988 2411 6966"/></Shape>
+	    <String CONTENT="תה(י)[א] מסאבא היא : כל"
+                    HPOS="2396"
+                    VPOS="6769"
+                    WIDTH="1059"
+                    HEIGHT="270"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3734.0"
+                   VPOS="1066.0"
+                   WIDTH="1246.0"
+                   HEIGHT="5959.0"
+                   ID="eSc_textblock_92705"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="4941 7025 4980 6986 4961 1129 4902 1085 3817 1066 3734 1148 3773 1869 3734 2570 3773 6265 3734 6289 3734 6849 3817 7005 4532 6986 4941 7025"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1279879"
+                    
+                    BASELINE="3879 1182 3899 1183 4805 1236 4854 1231 4912 1241 4932 1244" 
+                    HPOS="3872"
+                    VPOS="1058"
+                    WIDTH="1059"
+                    HEIGHT="271">
+            <Shape><Polygon POINTS="3872 1175 3886 1088 4011 1066 4091 1109 4157 1058 4215 1058 4288 1124 4464 1088 4515 1131 4632 1146 4712 1102 4858 1146 4924 1131 4931 1241 4909 1307 4836 1329 3879 1248"/></Shape>
+	    <String CONTENT="וביומא תמינאה יסב ליה"
+                    HPOS="3872"
+                    VPOS="1058"
+                    WIDTH="1059"
+                    HEIGHT="271"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279880"
+                    
+                    BASELINE="3899 1332 3919 1333 4187 1343 4245 1353 4304 1348 4562 1358 4620 1363 4674 1377 4722 1368 4893 1372 4913 1372" 
+                    HPOS="3894"
+                    VPOS="1263"
+                    WIDTH="1015"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="3894 1329 3908 1270 3974 1263 4632 1299 4698 1329 4880 1314 4909 1365 4866 1460 4398 1438 4245 1394 4157 1431 4113 1387 4025 1423 3901 1409"/></Shape>
+	    <String CONTENT="תרין שפנינין או תרין בני [/]"
+                    HPOS="3894"
+                    VPOS="1263"
+                    WIDTH="1015"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279881"
+                    
+                    BASELINE="3909 1469 3929 1470 4863 1509 4932 1494 4952 1490" 
+                    HPOS="3908"
+                    VPOS="1387"
+                    WIDTH="1038"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="3908 1467 3923 1423 4033 1431 4113 1387 4150 1423 4245 1402 4420 1445 4931 1445 4946 1489 4924 1562 4829 1599 4588 1584 4544 1555 4442 1584 4164 1548 4040 1570 3989 1526 3916 1555"/></Shape>
+	    <String CONTENT="יונה ויתי לקדם ייי לתרע [/]"
+                    HPOS="3908"
+                    VPOS="1387"
+                    WIDTH="1038"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279882"
+                    
+                    BASELINE="3865 1602 3885 1606 3997 1626 4328 1621 4674 1635 4732 1645 4849 1640 4912 1650 4932 1653" 
+                    HPOS="3857"
+                    VPOS="1526"
+                    WIDTH="1074"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="3857 1599 3865 1540 3945 1555 3989 1526 4033 1570 4551 1562 4749 1599 4909 1577 4931 1650 4902 1708 4756 1730 3865 1694"/></Shape>
+	    <String CONTENT="משכן זימנא ויתנינון [לות]"
+                    HPOS="3857"
+                    VPOS="1526"
+                    WIDTH="1074"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279883"
+                    
+                    BASELINE="3904 1757 3924 1757 4201 1757 4596 1776 4927 1781 4947 1781" 
+                    HPOS="3901"
+                    VPOS="1694"
+                    WIDTH="1045"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="3901 1752 3945 1694 4668 1730 4931 1701 4946 1774 4909 1876 3908 1832"/></Shape>
+	    <String CONTENT="(ל)כהנא : ועשה אתם הכהן"
+                    HPOS="3901"
+                    VPOS="1694"
+                    WIDTH="1045"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279884"
+                    
+                    BASELINE="3840 1906 3860 1903 3924 1893 4016 1893 4065 1903 4342 1908 4464 1918 4688 1913 4795 1922 4932 1922 4952 1922" 
+                    HPOS="3835"
+                    VPOS="1818"
+                    WIDTH="1111"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="3835 1905 3850 1818 3996 1847 4391 1840 4434 1869 4880 1869 4946 1920 4873 2008 4690 1978 4500 2000 4245 1993 4201 1964 4128 1993 3843 1971"/></Shape>
+	    <String CONTENT="אחד חטאת והאחד עלה"
+                    HPOS="3835"
+                    VPOS="1818"
+                    WIDTH="1111"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279885"
+                    
+                    BASELINE="3879 2044 3899 2044 4206 2044 4386 2054 4815 2054 4863 2044 4932 2059 4952 2063" 
+                    HPOS="3872"
+                    VPOS="1964"
+                    WIDTH="1074"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="3872 2037 3879 1986 4193 1964 4245 2000 4924 1993 4946 2059 4880 2146 4698 2117 4632 2146 3879 2117"/></Shape>
+	    <String CONTENT="וכפר עליו הכהן לפני יהוה"
+                    HPOS="3872"
+                    VPOS="1964"
+                    WIDTH="1074"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279886"
+                    
+                    BASELINE="3904 2190 3924 2190 4727 2185 4786 2195 4888 2195 4908 2195" 
+                    HPOS="3901"
+                    VPOS="2110"
+                    WIDTH="1001"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3901 2183 3908 2117 4055 2110 4610 2146 4690 2117 4880 2154 4902 2190 4880 2278 4040 2241 3908 2263"/></Shape>
+	    <String CONTENT="מזובו : ויעבד יתהון כהנא"
+                    HPOS="3901"
+                    VPOS="2110"
+                    WIDTH="1001"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279887"
+                    
+                    BASELINE="3899 2328 3919 2327 3987 2322 4932 2336 4952 2336" 
+                    HPOS="3894"
+                    VPOS="2249"
+                    WIDTH="1052"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="3894 2322 3908 2263 4040 2249 4683 2292 4902 2271 4946 2329 4873 2424 3901 2402"/></Shape>
+	    <String CONTENT="חד חטאתא וחד עלתא"
+                    HPOS="3894"
+                    VPOS="2249"
+                    WIDTH="1052"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279888"
+                    
+                    BASELINE="3879 2462 3899 2463 4235 2473 4284 2487 4401 2477 4854 2482 4912 2468 4931 2463" 
+                    HPOS="3872"
+                    VPOS="2395"
+                    WIDTH="1052"
+                    HEIGHT="277">
+            <Shape><Polygon POINTS="3872 2460 3879 2402 4084 2424 4193 2395 4771 2409 4902 2424 4924 2460 4887 2563 4844 2533 4778 2577 4690 2577 4654 2541 4581 2570 4383 2548 4215 2672 4120 2636 4076 2665 3879 2665"/></Shape>
+	    <String CONTENT="ויכפר עלוהי כהנא קדם [/]"
+                    HPOS="3872"
+                    VPOS="2395"
+                    WIDTH="1052"
+                    HEIGHT="277"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279889"
+                    
+                    BASELINE="4366 2614 4386 2614 4868 2624 4888 2624" 
+                    HPOS="4361"
+                    VPOS="2541"
+                    WIDTH="526"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="4361 2606 4376 2555 4646 2548 4683 2585 4756 2585 4822 2541 4887 2621 4858 2709 4515 2709 4369 2672"/></Shape>
+	    <String CONTENT="ייי מדוביה :"
+                    HPOS="4361"
+                    VPOS="2541"
+                    WIDTH="526"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279890"
+                    
+                    BASELINE="3860 2761 3880 2760 4016 2750 4294 2750 4357 2760 4815 2774 4873 2765 4893 2762" 
+                    HPOS="3857"
+                    VPOS="2658"
+                    WIDTH="1030"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="3857 2760 3872 2665 4062 2658 4171 2687 4376 2672 4529 2716 4873 2709 4887 2760 4866 2855 4157 2847 3865 2811"/></Shape>
+	    <String CONTENT="ואיש כי תצא ממנו שכבת"
+                    HPOS="3857"
+                    VPOS="2658"
+                    WIDTH="1030"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279891"
+                    
+                    BASELINE="3899 2890 3919 2891 4255 2911 4742 2906 4873 2916 4893 2918" 
+                    HPOS="3894"
+                    VPOS="2833"
+                    WIDTH="993"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3894 2884 3901 2833 4822 2847 4866 2855 4887 2913 4866 3001 4018 2994 3901 2964"/></Shape>
+	    <String CONTENT="זרע ורחץ במים את כל"
+                    HPOS="3894"
+                    VPOS="2833"
+                    WIDTH="993"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279892"
+                    
+                    BASELINE="3899 3047 3919 3047 4206 3047 4260 3037 4338 3052 4688 3057 4737 3067 4912 3052 4932 3050" 
+                    HPOS="3894"
+                    VPOS="2964"
+                    WIDTH="1037"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="3894 3045 3901 2964 4909 3001 4931 3045 4909 3125 4851 3147 3901 3110"/></Shape>
+	    <String CONTENT="בשרו וטמא עד הערב : [ו/]"
+                    HPOS="3894"
+                    VPOS="2964"
+                    WIDTH="1037"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279893"
+                    
+                    BASELINE="3845 3189 3865 3188 3992 3179 4041 3188 4630 3193 4815 3203 4873 3193 4893 3190" 
+                    HPOS="3843"
+                    VPOS="3110"
+                    WIDTH="1044"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="3843 3183 3857 3118 3916 3110 4266 3147 4800 3132 4873 3147 4887 3183 4866 3271 4829 3286 3850 3249"/></Shape>
+	    <String CONTENT="וגבר ארי תיפוק מניה [ש/]"
+                    HPOS="3843"
+                    VPOS="3110"
+                    WIDTH="1044"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279894"
+                    
+                    BASELINE="3865 3320 3885 3320 4299 3329 4347 3339 4450 3334 4912 3339 4932 3339" 
+                    HPOS="3857"
+                    VPOS="3249"
+                    WIDTH="1074"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="3857 3315 3872 3249 4084 3286 4705 3264 4887 3278 4931 3337 4836 3417 4690 3432 4639 3402 3865 3402"/></Shape>
+	    <String CONTENT="שכבת זרעא ויסחי במיא"
+                    HPOS="3857"
+                    VPOS="3249"
+                    WIDTH="1074"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279895"
+                    
+                    BASELINE="3860 3466 3880 3466 4226 3466 4284 3480 4450 3471 4854 3471 4874 3471" 
+                    HPOS="3857"
+                    VPOS="3388"
+                    WIDTH="1016"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="3857 3461 3865 3402 4128 3388 4420 3424 4632 3395 4661 3424 4851 3410 4873 3468 4851 3563 4391 3556 4237 3512 4186 3541 3865 3519"/></Shape>
+	    <String CONTENT="ית כל בישריה ויה(י)[א] מסא&#39;"
+                    HPOS="3857"
+                    VPOS="3388"
+                    WIDTH="1016"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279896"
+                    
+                    BASELINE="3840 3586 3860 3587 4518 3612 4873 3602 4893 3601" 
+                    HPOS="3835"
+                    VPOS="3519"
+                    WIDTH="1052"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="3835 3585 3886 3541 4245 3519 4266 3549 4398 3563 4866 3563 4887 3600 4866 3665 4800 3702 4391 3673 4208 3702 4091 3643 4018 3695 3843 3665"/></Shape>
+	    <String CONTENT="עד רמשא : וכל בגד וכל"
+                    HPOS="3835"
+                    VPOS="3519"
+                    WIDTH="1052"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279897"
+                    
+                    BASELINE="3860 3743 3880 3743 4800 3743 4859 3753 4879 3756" 
+                    HPOS="3857"
+                    VPOS="3643"
+                    WIDTH="1016"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="3857 3738 3865 3665 4040 3687 4091 3643 4142 3695 4851 3680 4873 3753 4851 3841 3865 3811"/></Shape>
+	    <String CONTENT="עור אשר יהיה עליו [ש/]"
+                    HPOS="3857"
+                    VPOS="3643"
+                    WIDTH="1016"
+                    HEIGHT="198"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279898"
+                    
+                    BASELINE="3875 3879 3895 3880 4571 3899 4873 3889 4893 3888" 
+                    HPOS="3872"
+                    VPOS="3819"
+                    WIDTH="1015"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="3872 3877 3886 3819 4266 3819 4544 3848 4829 3833 4887 3884 4866 3972 4661 3994 4069 3994 3938 3950 3879 3972"/></Shape>
+	    <String CONTENT="שכבת זרע וכבס במים [וט&#39;]"
+                    HPOS="3872"
+                    VPOS="3819"
+                    WIDTH="1015"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279899"
+                    
+                    BASELINE="3840 4022 3860 4026 3938 4040 4834 4035 4893 4045 4913 4048" 
+                    HPOS="3835"
+                    VPOS="3943"
+                    WIDTH="1074"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="3835 4016 3843 3965 3930 3943 4062 3987 4887 3979 4909 4045 4858 4133 4500 4133 4449 4082 4398 4125 3916 4118 3850 4089"/></Shape>
+	    <String CONTENT="וטמא עד הערב : וכל [לב/]"
+                    HPOS="3835"
+                    VPOS="3943"
+                    WIDTH="1074"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279900"
+                    
+                    BASELINE="3840 4181 3860 4181 4854 4181 4874 4181" 
+                    HPOS="3835"
+                    VPOS="4089"
+                    WIDTH="1038"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="3835 4177 3850 4104 4405 4133 4449 4089 4500 4133 4800 4111 4858 4133 4873 4177 4836 4279 4719 4250 4581 4286 4011 4257 3923 4279 3850 4235"/></Shape>
+	    <String CONTENT="לבוש וכל משך דיהי על :"
+                    HPOS="3835"
+                    VPOS="4089"
+                    WIDTH="1038"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279901"
+                    
+                    BASELINE="3840 4316 3860 4318 3972 4332 4868 4323 4888 4323" 
+                    HPOS="3835"
+                    VPOS="4235"
+                    WIDTH="1052"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="3835 4315 3843 4235 3916 4271 3996 4250 4281 4286 4683 4279 4712 4250 4749 4279 4866 4264 4887 4315 4866 4396 4800 4432 4603 4403 4120 4418 4084 4381 3850 4396"/></Shape>
+	    <String CONTENT="עלוהי שכבת זרעא [ויצט&#39;]"
+                    HPOS="3835"
+                    VPOS="4235"
+                    WIDTH="1052"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279916"
+                    
+                    BASELINE="3860 4474 3880 4473 4011 4464 4664 4469 4834 4454 4854 4452" 
+                    HPOS="3857"
+                    VPOS="4381"
+                    WIDTH="994"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="3857 4469 3865 4403 4084 4381 4120 4418 4610 4410 4851 4447 4829 4556 3865 4542"/></Shape>
+	    <String CONTENT="ויצטבע במיא ויה(י)[א] [מס/]"
+                    HPOS="3857"
+                    VPOS="4381"
+                    WIDTH="994"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279917"
+                    
+                    BASELINE="4045 4600 4065 4600 4839 4600 4859 4600" 
+                    HPOS="4040"
+                    VPOS="4549"
+                    WIDTH="818"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="4040 4593 4076 4549 4792 4549 4858 4593 4836 4695 4464 4695 4427 4658 4237 4695 4055 4673"/></Shape>
+	    <String CONTENT="מסאב עד רמשא :"
+                    HPOS="4040"
+                    VPOS="4549"
+                    WIDTH="818"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279918"
+                    
+                    BASELINE="3845 4726 3865 4727 4094 4741 4416 4736 4854 4741 4874 4741" 
+                    HPOS="3843"
+                    VPOS="4666"
+                    WIDTH="1030"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="3843 4724 3857 4666 4318 4695 4427 4666 4456 4695 4858 4680 4873 4739 4836 4826 3850 4812"/></Shape>
+	    <String CONTENT="ואשה אשר ישכב איש [/]"
+                    HPOS="3843"
+                    VPOS="4666"
+                    WIDTH="1030"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279908"
+                    
+                    BASELINE="3826 4873 3846 4873 4250 4873 4347 4882 4771 4887 4834 4878 4854 4875" 
+                    HPOS="3821"
+                    VPOS="4805"
+                    WIDTH="1030"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3821 4870 3828 4805 3974 4834 4800 4819 4851 4870 4829 4958 4727 4973 3930 4973 3828 4943"/></Shape>
+	    <String CONTENT="אתה שכבת זרע ורחצו [/]"
+                    HPOS="3821"
+                    VPOS="4805"
+                    WIDTH="1030"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279913"
+                    
+                    BASELINE="3821 5027 3841 5024 3909 5014 4323 5024 4849 5024 4869 5024" 
+                    HPOS="3813"
+                    VPOS="4958"
+                    WIDTH="1053"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="3813 5024 3821 4958 4844 4958 4866 5016 4836 5111 3821 5089"/></Shape>
+	    <String CONTENT="במים וטמאו עד הערב : [/]"
+                    HPOS="3813"
+                    VPOS="4958"
+                    WIDTH="1053"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279907"
+                    
+                    BASELINE="3826 5149 3846 5150 4206 5160 4265 5170 4834 5170 4854 5170" 
+                    HPOS="3821"
+                    VPOS="5089"
+                    WIDTH="1030"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3821 5148 3828 5097 4230 5119 4296 5089 4829 5111 4851 5162 4829 5250 4047 5257 4011 5228 3901 5257 3828 5228"/></Shape>
+	    <String CONTENT="ואיתתא דישכוב גבר יתה"
+                    HPOS="3821"
+                    VPOS="5089"
+                    WIDTH="1030"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279906"
+                    
+                    BASELINE="3840 5314 3860 5311 3924 5301 4873 5306 4893 5306" 
+                    HPOS="3835"
+                    VPOS="5235"
+                    WIDTH="1052"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="3835 5308 3850 5243 4018 5235 4069 5265 4873 5243 4887 5301 4866 5374 4749 5389 3843 5381"/></Shape>
+	    <String CONTENT="שכבת זרעא ויסחון במיא"
+                    HPOS="3835"
+                    VPOS="5235"
+                    WIDTH="1052"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279902"
+                    
+                    BASELINE="3801 5434 3821 5434 4747 5437 4873 5447 4893 5449" 
+                    HPOS="3799"
+                    VPOS="5367"
+                    WIDTH="1088"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3799 5433 3821 5367 4851 5381 4887 5447 4851 5513 4719 5535 3806 5506"/></Shape>
+	    <String CONTENT="ויהון מסאבין עד רמשא :"
+                    HPOS="3799"
+                    VPOS="5367"
+                    WIDTH="1088"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279910"
+                    
+                    BASELINE="3845 5565 3865 5569 3938 5583 4615 5588 4635 5588" 
+                    HPOS="3843"
+                    VPOS="5506"
+                    WIDTH="789"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="3843 5564 3886 5506 4179 5535 4551 5520 4610 5535 4632 5586 4566 5666 3850 5659"/></Shape>
+	    <String CONTENT="ואשה כי תהיה זבה"
+                    HPOS="3843"
+                    VPOS="5506"
+                    WIDTH="789"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279914"
+                    
+                    BASELINE="3850 5715 3870 5715 4863 5725 4883 5725" 
+                    HPOS="3843"
+                    VPOS="5644"
+                    WIDTH="1037"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3843 5710 3850 5659 4785 5644 4858 5659 4880 5717 4836 5812 3850 5790"/></Shape>
+	    <String CONTENT="דם יהיה זובה בבשרה [ש/]"
+                    HPOS="3843"
+                    VPOS="5644"
+                    WIDTH="1037"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279909"
+                    
+                    BASELINE="3850 5851 3870 5851 4527 5861 4591 5871 4761 5871 4868 5851 4888 5847" 
+                    HPOS="3843"
+                    VPOS="5790"
+                    WIDTH="1044"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="3843 5849 3850 5790 4018 5820 4712 5798 4887 5842 4785 5944 3850 5936"/></Shape>
+	    <String CONTENT="שבעת ימים תהיה בנדתה"
+                    HPOS="3843"
+                    VPOS="5790"
+                    WIDTH="1044"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279904"
+                    
+                    BASELINE="3836 5991 3856 5992 4075 6007 4800 6002 4873 6012 4893 6015" 
+                    HPOS="3835"
+                    VPOS="5929"
+                    WIDTH="1052"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="3835 5988 3843 5936 4836 5929 4887 6009 4844 6090 4018 6090 3843 6046"/></Shape>
+	    <String CONTENT="(ו)כל הנגע בה יטמא עד"
+                    HPOS="3835"
+                    VPOS="5929"
+                    WIDTH="1052"
+                    HEIGHT="161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279903"
+                    
+                    BASELINE="3802 6151 3822 6148 3885 6138 4834 6143 4854 6143" 
+                    HPOS="3799"
+                    VPOS="6053"
+                    WIDTH="1052"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3799 6148 3813 6068 3850 6053 4018 6097 4734 6075 4829 6090 4851 6141 4807 6221 3806 6221"/></Shape>
+	    <String CONTENT="הערב : ואיתתא ארי תה(י)[א]"
+                    HPOS="3799"
+                    VPOS="6053"
+                    WIDTH="1052"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279795"
+                    
+                    BASELINE="3805 6280 4834 6280 4854 6280" 
+                    HPOS="3799"
+                    VPOS="6221"
+                    WIDTH="1052"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="3799 6272 3813 6221 4836 6221 4851 6272 4814 6367 3813 6367"/></Shape>
+	    <String CONTENT="[זובה] דם יה(י)[א] דובה בבשר(ה)"
+                    HPOS="3799"
+                    VPOS="6221"
+                    WIDTH="1052"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279911"
+                    
+                    BASELINE="3840 6421 3860 6421 4708 6421 4761 6411 4820 6421 4840 6424" 
+                    HPOS="3835"
+                    VPOS="6345"
+                    WIDTH="1001"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3835 6418 3843 6367 4566 6345 4814 6353 4836 6418 4814 6484 4749 6506 4201 6506 4157 6477 4084 6513 3843 6513"/></Shape>
+	    <String CONTENT="שבע(א)[ת] יומין תה(י)[א] בריחוק&#39;"
+                    HPOS="3835"
+                    VPOS="6345"
+                    WIDTH="1001"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279915"
+                    
+                    BASELINE="3826 6573 3846 6572 4075 6562 4542 6557 4873 6562 4893 6562" 
+                    HPOS="3821"
+                    VPOS="6477"
+                    WIDTH="1066"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="3821 6572 3828 6506 4091 6513 4164 6477 4201 6513 4866 6491 4887 6557 4836 6652 4361 6659 4223 6616 4135 6645 3828 6637"/></Shape>
+	    <String CONTENT="(ו)כל דיקרב בה יה(י)[א] מסאב"
+                    HPOS="3821"
+                    VPOS="6477"
+                    WIDTH="1066"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279905"
+                    
+                    BASELINE="3802 6715 3822 6713 3933 6703 4815 6708 4835 6708" 
+                    HPOS="3799"
+                    VPOS="6623"
+                    WIDTH="1030"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="3799 6710 3806 6645 4135 6652 4179 6623 4376 6659 4734 6637 4807 6652 4829 6703 4792 6784 3806 6784"/></Shape>
+	    <String CONTENT="עד רמשא : וכל אשר [תש&#39;]"
+                    HPOS="3799"
+                    VPOS="6623"
+                    WIDTH="1030"
+                    HEIGHT="161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1279912"
+                    
+                    BASELINE="3792 6844 3812 6844 4854 6835 4874 6835" 
+                    HPOS="3784"
+                    VPOS="6769"
+                    WIDTH="1089"
+                    HEIGHT="277">
+            <Shape><Polygon POINTS="3784 6842 3792 6769 4442 6769 4544 6798 4851 6776 4873 6827 4858 7003 4398 7003 4361 7032 4310 7003 4259 7046 4215 7010 4033 6995 3799 7010"/></Shape>
+	    <String CONTENT="תשכב עליו בנדתה יטמא"
+                    HPOS="3784"
+                    VPOS="6769"
+                    WIDTH="1089"
+                    HEIGHT="277"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

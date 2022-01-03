@@ -1,0 +1,73 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: 0;
+  color: #26272d;
+  font-size: 14px;
+  line-height: 1.42857143;
+  text-align: center;
+}
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #4682b4;
+  color: rgb(30, 30, 116);
+  font-size: 30px;
+}
+
+.topnav {
+  background-color: #add8e6;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: center;
+  color: #457577;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #a3c2db;
+  color: #1d3549;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04aa6d;
+  color: white;
+}
+body {
+  float: center;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 16px;
+  background-color: #b0e0e6;
+}
+button,
+#image {
+  background-color: #397eb6; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 16px;
+  margin: 20px;
+}
+p {
+  padding-right: 70px;
+  padding-left: 70px;
+}
